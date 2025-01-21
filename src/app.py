@@ -1,5 +1,8 @@
 import requests
-import json
+from reportlab.lib.pagesizes import letter
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from bs4 import BeautifulSoup
 
 THREAD_ID = "222373"
 BASE_URL = f"https://www.elektronauts.com/t/{THREAD_ID}.json"
@@ -14,9 +17,6 @@ def get_post_ids():
     else:
         print(f"Failed to fetch initial data: {response.status_code}")
         return []
-
-
-post_ids = get_post_ids()
 
 
 def fetch_posts_in_batches(post_ids, batch_size=20):
@@ -38,10 +38,53 @@ def fetch_posts_in_batches(post_ids, batch_size=20):
     return cooked_contents
 
 
+def html_to_text(html_content):
+    """Convert HTML content to plain text while preserving basic formatting."""
+    soup = BeautifulSoup(html_content, "html.parser")
+    # Remove audio elements as they can't be represented in PDF
+    for audio in soup.find_all("audio"):
+        audio.decompose()
+    # Convert emoji images to their alt text
+    for img in soup.find_all("img"):
+        if "emoji" in img.get("class", []):
+            img.replace_with(img.get("alt", ""))
+    return soup.get_text()
+
+
+def create_pdf(cooked_contents, output_file):
+    """Create a PDF document from the thread contents."""
+    doc = SimpleDocTemplate(output_file, pagesize=letter)
+    styles = getSampleStyleSheet()
+
+    # Create custom style for posts
+    post_style = ParagraphStyle(
+        "PostStyle",
+        parent=styles["Normal"],
+        spaceBefore=20,
+        spaceAfter=20,
+        leading=14,
+    )
+
+    # Create the PDF content
+    elements = []
+    for post in cooked_contents:
+        # Convert HTML content to plain text
+        text_content = html_to_text(post["content"])
+        # Add post ID as a header
+        elements.append(Paragraph(f"Post #{post['id']}", styles["Heading2"]))
+        # Add the post content
+        elements.append(Paragraph(text_content, post_style))
+        elements.append(Spacer(1, 20))
+
+    # Build the PDF
+    doc.build(elements)
+
+
+# Main execution
+post_ids = get_post_ids()
 all_cooked_contents = fetch_posts_in_batches(post_ids)
 
-output_file = "thread_cooked_content_222278.json"
-with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(all_cooked_contents, f, ensure_ascii=False, indent=4)
+output_file = f"thread_content_{THREAD_ID}.pdf"
+create_pdf(all_cooked_contents, output_file)
 
 print(f"Thread content saved to {output_file}")
