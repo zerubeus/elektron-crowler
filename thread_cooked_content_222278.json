@@ -1,0 +1,666 @@
+[
+    {
+        "id": 2103529,
+        "content": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/d/e/de5c656a6467456729e077029c3aae1bb60d325c.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/de5c656a6467456729e077029c3aae1bb60d325c\" title=\"\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/d/e/de5c656a6467456729e077029c3aae1bb60d325c_2_690x380.jpeg\" alt=\"\" width=\"690\" height=\"380\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/d/e/de5c656a6467456729e077029c3aae1bb60d325c_2_690x380.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/d/e/de5c656a6467456729e077029c3aae1bb60d325c_2_1035x570.jpeg 1.5x, https://www.elektronauts.com/uploads/default/optimized/3X/d/e/de5c656a6467456729e077029c3aae1bb60d325c_2_1380x760.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/d/e/de5c656a6467456729e077029c3aae1bb60d325c_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1540×850 382 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Many new features means new tricks!</p>\n<p>I think it could be a good place to put some light on some overlooked feature you enjoy for a very practical use.</p>\n<aside class=\"onebox pdf\">\n  <header class=\"source\">\n      <a href=\"https://elektron.se/wp-content/uploads/2024/10/Digitone-2-User-Manual_ENG_OS1.00A_241023.pdf\" target=\"_blank\" rel=\"noopener\">elektron.se</a>\n  </header>\n  <article class=\"onebox-body\">\n    <a href=\"https://elektron.se/wp-content/uploads/2024/10/Digitone-2-User-Manual_ENG_OS1.00A_241023.pdf\" target=\"_blank\" rel=\"noopener\"><span class=\"pdf-onebox-logo\"></span></a>\n<h3><a href=\"https://elektron.se/wp-content/uploads/2024/10/Digitone-2-User-Manual_ENG_OS1.00A_241023.pdf\" target=\"_blank\" rel=\"noopener\">Digitone-2-User-Manual_ENG_OS1.00A_241023.pdf</a></h3>\n\n<p class=\"filesize\">6.22 MB</p>\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n\n<h2>Please</h2>\n<p>No nonsense, moaning or questions!<br>\nNo random YouTuber vid.<br>\nOnly your DNII tricks.</p>\n<p>It would be nice to choose a concise title and put two ## before, so that we get what it’s about at first glance.</p>"
+    },
+    {
+        "id": 2103540,
+        "content": "<h1>Euclidean sequencer</h1>\n<p>First, I was finding this nice to have a mean to populate a 128-step sequence quickly.</p>\n<p>Then, I found it lacked life. And kind of abandoned it…</p>\n<p>But it just need a bit of time to get the most out of it!</p>\n<h2>Populate interesting trigs</h2>\n<p>If you want the Euclidean sequencer to get more interesting, pluck a few trigs while in Grid mode, before toggling EUC on.<br>\nNote, velocity, retrig… any parameter and even Sound locks!</p>\n<h2>Generate a random sequence</h2>\n<ol>\n<li>FUNC + AMP, toggle EUC on</li>\n<li>FUNC+AMP, hold AMP and release FUNC</li>\n<li>Keep holding AMP and press YES</li>\n</ol>\n<p>¡Bonanza!</p>"
+    },
+    {
+        "id": 2103593,
+        "content": "<h2>Keytracking</h2>\n<p>If you set a modulation depth of -8.00 in the Key Tracking source menu destined to an oscillator’s pitch it will negate the effect of the inbuilt Key tracking … you get a steady pitched oscillator for any Key input</p>\n<p>Anything more negative will begin to reverse Keytracking (centred around Note64) and anything between -8.00 depth and 0 depth will be in a sort of microtuning territory … this opens up exotic sounds and an easy way to play them in</p>\n<p>Of course, pushing the interval between notes further from 100c will allow you to cover a lot of territory on one folded keyboard view, again handy for wide percussive sound variation</p>\n<p>Key tracking is excellent on the Comb filters and everywhere frankly, just to introduce small variations to otherwise static percussive sounds in particular</p>"
+    },
+    {
+        "id": 2109370,
+        "content": "<p>Change Arp notes order randomly with microtiming knob in Note edit page.</p>\n<p>Add range, offset with non 4/4 length, 1st trig condition, INF length…</p>\n<div class=\"onebox lazyYT lazyYT-container\" data-youtube-id=\"fuP5zAjPoHg\" data-youtube-title=\" - YouTube\" data-parameters=\"feature=oembed&amp;wmode=opaque\">\n  <a href=\"https://www.youtube.com/watch?v=fuP5zAjPoHg\" target=\"_blank\" rel=\"noopener nofollow ugc\">\n    <img class=\"ytp-thumbnail-image\" src=\"https://img.youtube.com/vi/fuP5zAjPoHg/hqdefault.jpg\" title=\" - YouTube\" width=\"480\" height=\"360\">\n  </a>\n</div>\n"
+    },
+    {
+        "id": 2109415,
+        "content": "<p>my tip is not really a trick, but using pre-filter srr to further sculpt the texture of a pinged snappy percussive sound is very nice. also works very well on plucked noise exciter into comb filter for string synthesis. i learned this on the dt2, but works just as well here and imo is even more useful</p>\n<p>using velocity mod to increase it over a short range naturally is such a nice effect</p>\n<p>another one is if you’re doing the karplus-strong style comb filter thing, if you have a very tight bandpass b/w filter, setting it to post, then trigger the “FLTR BW.RT” (BW pre/post routing) to just above 1(?) in Velocity Mod, so it flips to PRE filter, you get a very strong “strike” as if you plucked an open string on a guitar</p>\n<p>got an example of that in action here with spread out grain noise (more resonant guitar/mandolin i think maybe?), the notes that pop open have higher velocity. unison helps a lot too obviously</p>\n<p></p><div class=\"video-container\">\n    <video width=\"100%\" height=\"100%\" preload=\"metadata\" controls=\"\">\n      <source src=\"/uploads/default/original/3X/5/6/56fb07bdbf83a14166dbfcf7f405e08203a3eb5c.mp4\">\n      <a href=\"https://www.elektronauts.com/uploads/default/original/3X/5/6/56fb07bdbf83a14166dbfcf7f405e08203a3eb5c.mp4\">/uploads/default/original/3X/5/6/56fb07bdbf83a14166dbfcf7f405e08203a3eb5c.mp4</a>\n    </video>\n  </div><p></p>"
+    },
+    {
+        "id": 2112660,
+        "content": "<h2>Track layering and lock trigs</h2>\n<p>I just discovered this today, and it also applies to the DN1.</p>\n<p>If you layer track 10 to track 9, meaning that track 9 will receive it’s notes from track 10. You can then put lock trigs on track 9 to tweak it’s preset as it plays.</p>\n<p>The cool part is you can set these to 2 different track lengths. For example set track 10 (the master track) to a length of 12, and track 9 to a length of 7.</p>\n<p>The other nice thing is when editing the lock trigs on track 9 the notes are coming from another track, so you don’t have to use any tricks like putting 2 trigs next to each other and offsetting them with micro-timing. You just put the lock trigs exactly on the steps you want to change.</p>\n<p>Please note I have not tested this yet with track 9 sending it’s notes to track 10, so I’m not sure if order / precedence matters.</p>\n<h2>Why would you want to do this?</h2>\n<p>One example is adding a higher pitch preset that compliments what is playing on the master track. The higher tone can have it’s own conditions, track length, and probability.  One simple example is starting the higher tones track probability at 0, and then gradually increasing it to layer in the change during a performance.</p>\n<p>This is very useful if you want the higher tone to only play when the master track plays (and use the same notes)</p>"
+    },
+    {
+        "id": 2116737,
+        "content": "<p>anyone care to share some secret techniques or best practices for the comb filter-as-string-synthesis resonator?</p>\n<p>i noticed that when you hold func+turn the freq knob its in increments of like 48, 60, whatever, which seem to be in tune when you keytrack at 100%, right?</p>\n<p>i have noticed that granular or tuned noise when scattered can be very nice and visceral/gritty and very dynamic as an exciter</p>\n<p>i’ve learned as i stated above that sample rate reduction is very useful for sculpting the timbre of the karplus-like output without making it too harsh like it can when using the synth component of one of the machines rather than a short noise burst into comb vcf</p>\n<p>but other than simple things like trying to keep the normalled comb filter lpf low and feedback as high as possible without getting away from itself, setting freq to an acceptable value + keytracking at 100, im not sure how else to manipulate it really. layering with other tracks or just the osc page of the wavetone machine maybe while using the noise part of that synth for the main impulse. testing different exciter types. playing with the b/w filter and maybe trying some fm/am on the comb params?</p>\n<p>anyone learn any max marco style insider tips for that thing yet?</p>\n<p>edit: i guess Ivar is the new Max Marco</p>\n<div class=\"onebox lazyYT lazyYT-container\" data-youtube-id=\"SNIFevdo5pw\" data-youtube-title=\" - YouTube\" data-parameters=\"feature=oembed&amp;wmode=opaque\">\n  <a href=\"https://www.youtube.com/watch?v=SNIFevdo5pw\" target=\"_blank\" rel=\"noopener nofollow ugc\">\n    <img class=\"ytp-thumbnail-image\" src=\"https://img.youtube.com/vi/SNIFevdo5pw/hqdefault.jpg\" title=\" - YouTube\" width=\"480\" height=\"360\">\n  </a>\n</div>\n"
+    },
+    {
+        "id": 2116783,
+        "content": "<p>Yes, in tune with 60 and +/- 12 increments.</p>\n<p>Tip I found using Digitakt 2 : use an lfo on LEVEL to get a pre comb filter amp envelope.<br>\nSquare LFO, speed 0, use fade in to get a slower attack on noise (flutes, strings).</p>\n<p>Wavetone Noise has attack setting, AHR envelope. Lfo can add extra level to minic an ADSR.</p>\n<p>OT comb filters sounds very different, amp is before fx. I’d rather focus on DN2 patches than on what have been made with OT…</p>"
+    },
+    {
+        "id": 2116881,
+        "content": "<p>pretty good. also, i guess its obvious, but i kind of instinctually go for noise as the exciter, but as with the grand piano preset, percussive transients are also important, as well as the noise bw filter</p>\n<p>im back on track now though. i had like 3 days straight away from the box and already forgot the importance of transients with physical modelling. that fm drum “transient” parameter is so great, especially with its own filter and envelope</p>\n<p>i’d still like to know if there are another high level insights into physical modelling with comb filters that we could apply here, but i can probably find that on Sound on Sound or MW or something like that. i always like to hear elektron-specific techniques though, because here are often elektron-specific ways to do things</p>"
+    },
+    {
+        "id": 2117016,
+        "content": "<aside class=\"quote no-group\" data-username=\"less_wexners\" data-post=\"11\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/less_wexners/40/213091_2.png\" class=\"avatar\"> less_wexners:</div>\n<blockquote>\n<p>string-synthesis</p>\n</blockquote>\n</aside>\n<p>What kind of strings ?<br>\nViolin ensemble ?</p>\n<p>I gave it a try with Swarmer and Comb+, feedback 56, key tracking on BW filter…</p>\n<div class=\"onebox lazyYT lazyYT-container\" data-youtube-id=\"iwyR_iai800\" data-youtube-title=\" - YouTube\" data-parameters=\"feature=oembed&amp;wmode=opaque\">\n  <a href=\"https://www.youtube.com/watch?v=iwyR_iai800\" target=\"_blank\" rel=\"noopener nofollow ugc\">\n    <img class=\"ytp-thumbnail-image\" src=\"https://img.youtube.com/vi/iwyR_iai800/hqdefault.jpg\" title=\" - YouTube\" width=\"480\" height=\"360\">\n  </a>\n</div>\n\n<aside class=\"quote no-group\" data-username=\"less_wexners\" data-post=\"13\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/less_wexners/40/213091_2.png\" class=\"avatar\"> less_wexners:</div>\n<blockquote>\n<p>high level insights into physical modelling with comb filters</p>\n</blockquote>\n</aside>\n<p>That would deserve a thread !<br>\nI didn’t find anything very interesting yet, I just do it by ear.</p>"
+    },
+    {
+        "id": 2117267,
+        "content": "<p>Just a minor tip for those that are wondering where the punch is when designing patches:</p>\n<p>If you’re starting from an init (sine/default) patch, check your amp envelope; by default it may not be set to the minimum attack time <img src=\"https://www.elektronauts.com/images/emoji/twitter/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>"
+    },
+    {
+        "id": 2119038,
+        "content": "<h2>Using The Note Editor For Navigation Through Trigs / Pages</h2>\n<p>Next to using the note editor for editing chords, it can conveniently be used for navigation between pages, in both directions. Rather than having to press the [PAGE] button multiple times in order to navigate forwards to the desired page, entering the note editor and holding [FUNC] in combination with pressing [LEFT] or [RIGHT] causes the note editor to jump to the next trig. This can be really useful if you wanted to edit a few existing notes on the page just before the current one and could save quite some [PAGE] key presses.</p>"
+    },
+    {
+        "id": 2119061,
+        "content": "<p>yeah the init patch has an attack time of i think 8? (still waiting for my replacement dn2)</p>\n<p>this is likely preemptively done to prevent clicking</p>\n<p>i remember the first thing i would do when programming volca fm / dexed / dx7 patches was raise<br>\n“eg r1” so it’s nice to have it already done for you</p>"
+    },
+    {
+        "id": 2132646,
+        "content": "<h3>Transient Drum Kit (one voice)</h3>\n<p>Use Key Tracking to map the 62 transient samples to notes.</p>\n<div class=\"onebox lazyYT lazyYT-container\" data-youtube-id=\"iUfEQCLvC1Q\" data-youtube-title=\" - YouTube\" data-parameters=\"feature=oembed&amp;wmode=opaque\">\n  <a href=\"https://www.youtube.com/watch?v=iUfEQCLvC1Q\" target=\"_blank\" rel=\"noopener nofollow ugc\">\n    <img class=\"ytp-thumbnail-image\" src=\"https://img.youtube.com/vi/iUfEQCLvC1Q/hqdefault.jpg\" title=\" - YouTube\" width=\"480\" height=\"360\">\n  </a>\n</div>\n\n<div class=\"onebox lazyYT lazyYT-container\" data-youtube-id=\"svu4PAJYayA\" data-youtube-title=\" - YouTube\" data-parameters=\"feature=oembed&amp;wmode=opaque\">\n  <a href=\"https://www.youtube.com/watch?v=svu4PAJYayA\" target=\"_blank\" rel=\"noopener nofollow ugc\">\n    <img class=\"ytp-thumbnail-image\" src=\"https://img.youtube.com/vi/svu4PAJYayA/hqdefault.jpg\" title=\" - YouTube\" width=\"480\" height=\"360\">\n  </a>\n</div>\n\n<p>Use Key Tracking to map the 62 transients samples.<br>\nThere is 1 different transient every 2 increments, so Key Tracking Depth is 16 to map them all (instead of Depth 8).<br>\nDepth 64 in order to have kicks, snares and hihats with 16 trigs without transpose keyboard.<br>\nUse Transient parameter to shift kits.</p>\n<p>Keytrack on Comb - and Filter base</p>"
+    },
+    {
+        "id": 2137240,
+        "content": "<h2>Comb filter as (short) delay</h2>\n<p>A nice use for the comb filter is to use it as a delay for that track. Set the comb filter to a very low frequency and it sounds more like a delay. Feedback and Filter to your liking (are just the usual delay suspects). And voila, a track specific delay!</p>\n<p>Downside is offcourse the delay times are very short.</p>"
+    },
+    {
+        "id": 2137272,
+        "content": "<aside class=\"quote no-group\" data-username=\"Burpy\" data-post=\"19\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/burpy/40/3413_2.png\" class=\"avatar\"> Burpy:</div>\n<blockquote>\n<p>Downside is offcourse the delay times are very short.</p>\n</blockquote>\n</aside>\n<p>Feedback is surprisingly low at lowest frequency. 3 or 4 repeats…<br>\nEdit : My bad, note length was short.</p>\n<p>By ear I found 87.9 bpm at 0, 16th delay, 32th at around 17.7.<br>\nWould be interesting to make a tempo chart with a formula…</p>"
+    },
+    {
+        "id": 2137306,
+        "content": "<p>Would be nice indeed. Although my use cases are independent from bpm (today that is <img src=\"https://www.elektronauts.com/uploads/default/original/3X/1/a/1a17b0de07778a05696f05025a2ef8f3a6e6cf82.png?v=9\" title=\":wink:\" class=\"emoji emoji-custom\" alt=\":wink:\"> ). When i count by ear it will take a bit more than 10 seconds to fade out. With feedback at max and no filtering. Long enough for a lot of usecases.</p>\n<p>Would be nice to have a 100% (or more!) feedback though  <img src=\"https://www.elektronauts.com/images/emoji/twitter/boom.png?v=9\" title=\":boom:\" class=\"emoji\" alt=\":boom:\">.</p>"
+    },
+    {
+        "id": 2137319,
+        "content": "<aside class=\"quote no-group\" data-username=\"Burpy\" data-post=\"21\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/burpy/40/3413_2.png\" class=\"avatar\"> Burpy:</div>\n<blockquote>\n<p>more than 10 seconds to fade</p>\n</blockquote>\n</aside>\n<p>I’m dumb, wrong amp settings !<br>\nWith inf release it seems much longer than 10s ! 99% feedback maybe…</p>"
+    },
+    {
+        "id": 2137329,
+        "content": "<p>Closer to 14secs indeed! (in a mix with other sounds, so may even be longer in silence…)</p>"
+    },
+    {
+        "id": 2137339,
+        "content": "<aside class=\"quote no-group\" data-username=\"Burpy\" data-post=\"23\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/burpy/40/3413_2.png\" class=\"avatar\"> Burpy:</div>\n<blockquote>\n<p>Closer to 14secs indeed</p>\n</blockquote>\n</aside>\n<p>Try differently, can last several minutes imho ! Have to go; experiments when I come back. We have to find a formula !</p>"
+    },
+    {
+        "id": 2137404,
+        "content": "<p>Is there a way to “initialize” a track ?<br>\nIf I have loaded a preset, then load a new “Machine”, all settings are kept. Is there a way to load a “clean” machine ?</p>"
+    },
+    {
+        "id": 2137406,
+        "content": "<p>I don’t know if you can load clean by default, but you can always do a quick [TRK]+Clear after loading the new machine. That seems to do the trick</p>"
+    },
+    {
+        "id": 2137407,
+        "content": "<p>Ok, that simple, thanks !<br>\nAlso, PAGE + CLEAR is handy.</p>"
+    },
+    {
+        "id": 2138623,
+        "content": "<p>does this also still play different pitches when you map keytracking to transients or does the pitch stay the same regardless of which key is played?</p>"
+    },
+    {
+        "id": 2138640,
+        "content": "<aside class=\"quote no-group\" data-username=\"mlee\" data-post=\"28\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/letter_avatar/mlee/40/5_6363c49f2373467b0c1a609f08282e85.png\" class=\"avatar\"> mlee:</div>\n<blockquote>\n<p>different pitches when you map keytracking to transients</p>\n</blockquote>\n</aside>\n<p>Unfortunately you can’t change Transients pitch. Hold/Decay/Level only.</p>"
+    },
+    {
+        "id": 2139285,
+        "content": "<p>After a first couple days with this, I’m amazed at how good it sounds.</p>\n<p>A beginner’s tip, but in a stream with EZBot, Mario from Elektron said the FM Drum is a little like the Syntakt machines with all the controls exposed (which undersells it, but still). It made me want to replicate the fast, get up and running feel of sitting down with the Syntakt…</p>\n<p>This led me to make a template “Machines” kit that has gotten me up and running fast: starting with stripped down presets for BD, SD, HH and also bass, pad, and lead starting points using the different machines (fm, wave, drum with comb filter, etc). Cutting out the overwhelming hassle of starting totally from scratch , or of digging through a ton of presets made a big difference. It’s like the Syntakt experience, with the deeper controls ready to hand…</p>\n<p>Basic sounds are easier to achieve than I’d expected, and tweaking presets transforms them thoroughly and easily.</p>"
+    },
+    {
+        "id": 2139331,
+        "content": "<p>I don`t have my digitone 2 yet. But that was exactly my idea as well, basically rebuilding the syntakt machines and saving it as a project template.  Glad to hear it would actually work <img src=\"https://www.elektronauts.com/images/emoji/twitter/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>"
+    },
+    {
+        "id": 2139336,
+        "content": "<p>Just to add to the idea of creating a simple starter kit (which is a fantastic idea):</p>\n<p>You can easily apply your starter kit across your entire project. Go into Kit -&gt; Manage and highlight your template kit, then hit the right menu and choose “Load to  Empty” — boom, your template kit is now applied to all of your empty patterns. If you just started a new project, your whole project is now set up with your template kit.</p>\n<p>Pour one out for all of the copy/pasting I did on the mk1 devices.</p>"
+    },
+    {
+        "id": 2139337,
+        "content": "<aside class=\"quote no-group\" data-username=\"Humanprogram\" data-post=\"30\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/humanprogram/40/133794_2.png\" class=\"avatar\"> Humanprogram:</div>\n<blockquote>\n<p>the Syntakt machines</p>\n</blockquote>\n</aside>\n<p>It didn’t replace analog ones for me. I Miss them. I donc regret digital ones.</p>"
+    },
+    {
+        "id": 2139673,
+        "content": "<p>I’m keeping Syntakt, but I’m surprised how much more I like most of the metallic sounds coming from DN2, and how easy to adjust them. But the CY Ride and HH Lab on ST are sounds I think it’d be hard to imitate on DN2.</p>\n<p>Re analog, the Syntakt analog synths (and fx filter and drive) still fill a role for me, but the wavetone with post-filter overdrive routing was also much better than I was expecting.</p>\n<p>Back on topic, another tip from Mario: with Wavetone, you can send the grainy noise at near max “character” into a high-tuned comb filter for some nice, sparkly grain effects.</p>"
+    },
+    {
+        "id": 2139754,
+        "content": "<aside class=\"quote no-group\" data-username=\"Humanprogram\" data-post=\"34\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/humanprogram/40/133794_2.png\" class=\"avatar\"> Humanprogram:</div>\n<blockquote>\n<p>the grainy noise at near max “character” into a high-tuned comb filter</p>\n</blockquote>\n</aside>\n<p>I tried that too before ! <img src=\"https://www.elektronauts.com/uploads/default/original/3X/1/a/1a17b0de07778a05696f05025a2ef8f3a6e6cf82.png?v=9\" title=\":wink:\" class=\"emoji emoji-custom\" alt=\":wink:\"><br>\nDifferent comb filter notes<br>\nRandom Base, Lowest Width.<br>\nIf you want to quantize more grains, use very short noise decay…shortest LEN.</p>\n<p>Example, picking grains with short noise enveloppe. Less grains, quantized to trig begining.<br>\nNoise grains are the only source going into comb filter.</p>\n<div class=\"onebox lazyYT lazyYT-container\" data-youtube-id=\"GT1VZZtauZk\" data-youtube-title=\" - YouTube\" data-parameters=\"feature=oembed&amp;wmode=opaque\">\n  <a href=\"https://www.youtube.com/watch?v=GT1VZZtauZk\" target=\"_blank\" rel=\"noopener nofollow ugc\">\n    <img class=\"ytp-thumbnail-image\" src=\"https://img.youtube.com/vi/GT1VZZtauZk/hqdefault.jpg\" title=\" - YouTube\" width=\"480\" height=\"360\">\n  </a>\n</div>\n"
+    },
+    {
+        "id": 2141503,
+        "content": "<p><strong>Play track by midi note (feature or bug?)</strong></p>\n<p>After playing a track with an external keyboard i noticed something:<br>\nThe lowest 16 mid notes will play tracks 1-16. All the notes above that will play the selected track (or by midi channel or via auto channel and then the selected track). This is the case for all midi channels and for all the tracks. Even if tracks doesn’t have a midi channel.</p>\n<p>I could not find this in the manual. So or it is an undocumented feature, or a bug. But it may come in handy. For example: using an external drumpad.</p>"
+    },
+    {
+        "id": 2141518,
+        "content": "<p>This is a feature. It was present in DN1 and DT has it also. They just forgot to mention it in the DN2 manual.</p>"
+    },
+    {
+        "id": 2141530,
+        "content": "<aside class=\"quote no-group\" data-username=\"Burpy\" data-post=\"36\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/burpy/40/3413_2.png\" class=\"avatar\"> Burpy:</div>\n<blockquote>\n<p>I could not find this in the manual. So or it is an undocumented feature, or a bug.</p>\n</blockquote>\n</aside>\n<p>It is common to several Elektrons since AR MKI. DTs, DNs, ST…not sure about A4s. It should be specified in the manual indeed, I also searched without luck…</p>\n<aside class=\"quote no-group\" data-username=\"Burpy\" data-post=\"36\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/burpy/40/3413_2.png\" class=\"avatar\"> Burpy:</div>\n<blockquote>\n<p>For example: using an external drumpad.</p>\n</blockquote>\n</aside>\n<p>Works perfectly with Akai Mini Plus…</p><div class=\"onebox lazyYT lazyYT-container\" data-youtube-id=\"3sNdmiaJNmY\" data-youtube-title=\" - YouTube\" data-parameters=\"feature=oembed&amp;wmode=opaque\">\n  <a href=\"https://www.youtube.com/watch?v=3sNdmiaJNmY\" target=\"_blank\" rel=\"noopener nofollow ugc\">\n    <img class=\"ytp-thumbnail-image\" src=\"https://img.youtube.com/vi/3sNdmiaJNmY/hqdefault.jpg\" title=\" - YouTube\" width=\"480\" height=\"360\">\n  </a>\n</div>\n"
+    },
+    {
+        "id": 2141531,
+        "content": "<p>And the pitch of the produced note ? The one in the TRIG settings ?<br>\nEdit : I’ll try later !</p>"
+    },
+    {
+        "id": 2141543,
+        "content": "<aside class=\"quote no-group\" data-username=\"chapelierfou\" data-post=\"39\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/chapelierfou/40/13177_2.png\" class=\"avatar\"> chapelierfou:</div>\n<blockquote>\n<p>The one in the TRIG settings ?</p>\n</blockquote>\n</aside>\n<p>Yes. Same as if you were playing track trigs with TRACKS trig mode.</p>"
+    },
+    {
+        "id": 2141544,
+        "content": "<p>Waiting for an updated manual then <img src=\"https://www.elektronauts.com/uploads/default/original/3X/1/a/1a17b0de07778a05696f05025a2ef8f3a6e6cf82.png?v=9\" title=\":wink:\" class=\"emoji emoji-custom\" alt=\":wink:\"></p>\n<p>Only Elektron i have is OT mk2 so never had this functionality. (Although i had the OG DN for a while but did not know this)</p>"
+    },
+    {
+        "id": 2141636,
+        "content": "<p>Now i just saw this thread <a href=\"https://www.elektronauts.com/t/digitone-ii-external-midi-pads-controlling-track-trigs/224875/4\" class=\"inline-onebox\">Digitone II external Midi pads controlling track trigs? - #4 by sezare56</a> <img src=\"https://www.elektronauts.com/images/emoji/twitter/upside_down_face.png?v=9\" title=\":upside_down_face:\" class=\"emoji\" alt=\":upside_down_face:\"> i could have know it <img src=\"https://www.elektronauts.com/uploads/default/original/3X/1/a/1a17b0de07778a05696f05025a2ef8f3a6e6cf82.png?v=9\" title=\":wink:\" class=\"emoji emoji-custom\" alt=\":wink:\"></p>"
+    },
+    {
+        "id": 2141736,
+        "content": "<h3>Key Tracking Breakpoint Shifting</h3>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/3/4/34e1b6a26a44e4261656540ab1b66fea82821469.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/34e1b6a26a44e4261656540ab1b66fea82821469\" title=\"Screenshot_20241202-003227_Adobe Acrobat\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/3/4/34e1b6a26a44e4261656540ab1b66fea82821469_2_690x132.jpeg\" alt=\"Screenshot_20241202-003227_Adobe Acrobat\" data-base62-sha1=\"7xOpROImt1IknPcbYi7lPjWuYNb\" width=\"690\" height=\"132\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/3/4/34e1b6a26a44e4261656540ab1b66fea82821469_2_690x132.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/3/4/34e1b6a26a44e4261656540ab1b66fea82821469_2_1035x198.jpeg 1.5x, https://www.elektronauts.com/uploads/default/optimized/3X/3/4/34e1b6a26a44e4261656540ab1b66fea82821469_2_1380x264.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/3/4/34e1b6a26a44e4261656540ab1b66fea82821469_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot_20241202-003227_Adobe Acrobat</span><span class=\"informations\">2248×433 190 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div><br>\nBreakpoint is fixed to C5. Would be nice to be able to change it in Setup.</p>\n<p>Workaround to shift it without changing notes you play : use Transpose and Octave.</p>\n<p>Example with these settings, breakpoint is C4 :</p>\n<p>Octave -1<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/2/9/2987ec56af01084075ab1d9b075c812b9b55ae0d.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/2987ec56af01084075ab1d9b075c812b9b55ae0d\" title=\"20241202_003633\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/2/9/2987ec56af01084075ab1d9b075c812b9b55ae0d_2_690x388.jpeg\" alt=\"20241202_003633\" data-base62-sha1=\"5VoN0hADtc7JssZykzuKC82XOqN\" width=\"690\" height=\"388\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/2/9/2987ec56af01084075ab1d9b075c812b9b55ae0d_2_690x388.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/2/9/2987ec56af01084075ab1d9b075c812b9b55ae0d_2_1035x582.jpeg 1.5x, https://www.elektronauts.com/uploads/default/optimized/3X/2/9/2987ec56af01084075ab1d9b075c812b9b55ae0d_2_1380x776.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/2/9/2987ec56af01084075ab1d9b075c812b9b55ae0d_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">20241202_003633</span><span class=\"informations\">4000×2250 1.33 MB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Transpose +12<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/7/a/7a898e7ee35d2170d85ee0080f61a99fa93f7a36.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/7a898e7ee35d2170d85ee0080f61a99fa93f7a36\" title=\"20241202_003611\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/7/a/7a898e7ee35d2170d85ee0080f61a99fa93f7a36_2_690x388.jpeg\" alt=\"20241202_003611\" data-base62-sha1=\"hu0XPQM1lG3iWxDHwptLLru5lX0\" width=\"690\" height=\"388\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/7/a/7a898e7ee35d2170d85ee0080f61a99fa93f7a36_2_690x388.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/7/a/7a898e7ee35d2170d85ee0080f61a99fa93f7a36_2_1035x582.jpeg 1.5x, https://www.elektronauts.com/uploads/default/optimized/3X/7/a/7a898e7ee35d2170d85ee0080f61a99fa93f7a36_2_1380x776.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/7/a/7a898e7ee35d2170d85ee0080f61a99fa93f7a36_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">20241202_003611</span><span class=\"informations\">4000×2250 1.27 MB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div><br>\nTranspose is +/- 36 semitones,  so you can shift breakpoint accordingly, +/- 3 octaves.<br>\n(Octave is +/- 5 octaves)</p>"
+    },
+    {
+        "id": 2141923,
+        "content": "<p>Is there not a basic “hold” button?</p>\n<p>I keep pressing combinations of random buttons (1-16), finding nice things, but then realising, oh…I have to keep my fingers pressed down, so I can’t modulate stuff</p>"
+    },
+    {
+        "id": 2141934,
+        "content": "<p>There is not. Use a MIDI controller which has hold, or lay down a trig with 1st condition and infinite length.</p>"
+    },
+    {
+        "id": 2141935,
+        "content": "<aside class=\"quote no-group\" data-username=\"ampism\" data-post=\"44\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/ampism/40/224106_2.png\" class=\"avatar\"> ampism:</div>\n<blockquote>\n<p>a basic “hold” button?</p>\n</blockquote>\n</aside>\n<p>Feature request or<br>\nToothpicks, magnets, weights…</p>\n<p>Or use my patented Lego step sequencer :<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/8/f/8f88a762d7dd9bb1a2ac018db3842c5177440337.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/8f88a762d7dd9bb1a2ac018db3842c5177440337\" title=\"20241202_112825\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/8/f/8f88a762d7dd9bb1a2ac018db3842c5177440337_2_690x388.jpeg\" alt=\"20241202_112825\" data-base62-sha1=\"ktL3AbMHVccZTyTKFun7lswJ0Xl\" width=\"690\" height=\"388\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/8/f/8f88a762d7dd9bb1a2ac018db3842c5177440337_2_690x388.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/8/f/8f88a762d7dd9bb1a2ac018db3842c5177440337_2_1035x582.jpeg 1.5x, https://www.elektronauts.com/uploads/default/optimized/3X/8/f/8f88a762d7dd9bb1a2ac018db3842c5177440337_2_1380x776.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/8/f/8f88a762d7dd9bb1a2ac018db3842c5177440337_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">20241202_112825</span><span class=\"informations\">4000×2250 1.45 MB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div><br>\nSpecial price for Elektronauts. <img src=\"https://www.elektronauts.com/uploads/default/original/3X/1/a/1a17b0de07778a05696f05025a2ef8f3a6e6cf82.png?v=9\" title=\":wink:\" class=\"emoji emoji-custom\" alt=\":wink:\"></p>"
+    },
+    {
+        "id": 2141949,
+        "content": "<aside class=\"quote no-group\" data-username=\"ampism\" data-post=\"44\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/ampism/40/224106_2.png\" class=\"avatar\"> ampism:</div>\n<blockquote>\n<p>I keep pressing combinations of random buttons (1-16)</p>\n</blockquote>\n</aside>\n<p>What about Note Edit menu ?<br>\nNotes are held.</p>"
+    },
+    {
+        "id": 2141958,
+        "content": "<p>Feature request: LEGO nipples and wholes on all sides of all elektron boxes. Makes it easier to build stands, desks etc.</p>"
+    },
+    {
+        "id": 2142035,
+        "content": "<p>Thanks <a class=\"mention\" href=\"/u/plragde\">@plragde</a>, good call.<br>\nAnd thanks <a class=\"mention\" href=\"/u/sezare56\">@sezare56</a> - yes note edit menu is where I will head to…</p>\n<p>I really am just getting my head around the rudimentary stuff.</p>\n<p>Here’s another question; the preset patterns seem to be fully fledged “songs” (my terminology). If I want to use a pattern as a springboard to create my own track, but I just want to use ,say, the first 4 bars of the pattern, how do I go about that?</p>"
+    },
+    {
+        "id": 2142044,
+        "content": "<p>You can copy the pattern, move to a different pattern (even in a different pattern), paste what you have copied, and either adjust the length to 4 bars, or clear the unwanted additional pages and start filling in your own stuff. (There are a host of copy/paste options, look at page 82 of the DN2 manual.)</p>\n<p>I don’t understand <a class=\"mention\" href=\"/u/sezare56\">@sezare56</a>’s comment about using note edit, so I am looking forward to clarification too!</p>"
+    },
+    {
+        "id": 2142046,
+        "content": "<aside class=\"quote no-group\" data-username=\"plragde\" data-post=\"50\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/plragde/40/90163_2.png\" class=\"avatar\"> plragde:</div>\n<blockquote>\n<p>using note edit</p>\n</blockquote>\n</aside>\n<p>Nothing particular you don’t already know I think.<br>\nWith Note Edit you can enter notes as if you were holding notes in KB Fold mode, with latching/hold behavior. Not perfect for live, with Arp it stops when you enter notes.</p>\n<p>(<a class=\"mention\" href=\"/u/plragde\">@plragde</a> to be clear I’d also like a way to hold notes and Note Edit doesn’t replace that function)</p>"
+    },
+    {
+        "id": 2142051,
+        "content": "<p>Okay, so you’re not saying it will sustain notes for you on preview or anything like that. Just that you can press and release a key and it is recorded for you on the trig and will play back as part of a chord (or handmade arp, with microtiming) when you preview. I think <a class=\"mention\" href=\"/u/ampism\">@ampism</a> was after something more like the hold button on, say, the DNK.</p>"
+    },
+    {
+        "id": 2142090,
+        "content": "<p>Yes, exactly that <img src=\"https://www.elektronauts.com/images/emoji/twitter/+1/3.png?v=9\" title=\":+1:t3:\" class=\"emoji\" alt=\":+1:t3:\"></p>"
+    },
+    {
+        "id": 2142125,
+        "content": "<p>I’m having fun exploring, but I gotta say, it’s all a bit moody innit?<br>\nI was hoping there would be tons of flutes and chimes and the kinds of sounds that are in abundance on the soft FM synths I have (KQ Dixie, Dexed etc)<br>\nAre there free banks of sounds anywhere?</p>"
+    },
+    {
+        "id": 2142145,
+        "content": "<p>I haven’t spent a lot of time with the new factory presets for DN2, but my impression is that many of them were made by people who had a lot of experience with DN1, and they have to be viewed in that context. The presets are showcasing the new features of DN2. Even the DN1 factory content did not try too hard to emulate classic FM sounds, and it is almost a cliché to make glassy or bell-like or metallic sounds with FM. DN1’s approach to simplicity with whole-number ratios (later softened with the addition of offsets) steers away from those. The presets lean towards uniqueness rather than emulation.</p>\n<p>There is an older video on approximating DX7 sounds with DN1. It was recently linked here, so I will share that link.</p>\n<aside class=\"quote quote-modified\" data-post=\"5405\" data-topic=\"34364\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img alt=\"\" width=\"20\" height=\"20\" src=\"/user_avatar/www.elektronauts.com/sezare56/40/125768_2.png\" class=\"avatar\">\n    <a href=\"https://www.elektronauts.com/t/fr-le-bistrot-francophone-intersideral/34364/5405\">[FR] Le Bistrot Francophone Intersidéral</a> <a class=\"badge-wrapper  bullet\" href=\"/c/the-lounge/social-event/51\"><span class=\"badge-category-parent-bg\" style=\"background-color: #73828d;\"></span><span class=\"badge-category-bg\" style=\"background-color: #12A89D;\"></span><span style=\"\" data-drop-close=\"true\" class=\"badge-category clear-badge\">Social/Event</span></a>\n  </div>\n  <blockquote>\n    Effectivement ça colle bien, merci. \nTout autre sujet je cherche des infos, théories ou tutos bien faits pour les bases de la FM ou Phase Modulation type DX Yamaha, pour reproduire des sons basiques comme les 128 sons de base de la norme General MIDI…L’idée étant de le reproduire sur le Digitone 2. \nAu pire je vais installer DEXED, gratuit, qui lit les fichiers “DX7” et essayer de reproduire. Ce qu’à fait GuacamoleXplosion ci-dessous, avec fichiers Digitone 1 gratos à télécharger. Sympa et intér…\n  </blockquote>\n</aside>\n\n<p>There is an associated soundpack of 60 sounds that is free, and a PDF explaining what features of DX7 not present in DN1 (or DN2, mostly) make it hard to easily port over sounds.</p>\n<p>Fortunately, the FM Tone engine in DN2 is unchanged from DN1, so most DN1 presets should work (the overdrive has changed, I believe, so some minor adjustment might be needed). Unfortunately, many of the soundpacks for DN1, free or otherwise, are only available in .syx format (including the free ones from Elektron?) and right now those cannot be loaded onto DN2. Elektron have promised this capability in a future update. The DX7-like sounds I mentioned above are in .dnsnd format, which can be loaded into DN2. I have some paid soundpacks for DN1 in this format that I could put onto DN2.</p>\n<p>So, bottom line is, you will have to be patient, but you could go searching in old DN1 demo videos to see if you can find the sort of sounds you are looking for, and if so, you at least know it’s possible, even if you can’t have it right away.</p>"
+    },
+    {
+        "id": 2142213,
+        "content": "<p>This was inspired by Tubesockor’s remake of the Last Ninja Wastelands tune.  (though not related)</p>\n<p>He mentioned using the LFOs to do some of the SID arp/trill sounds.  I didn’t look any further into this, and then figured I’d see what I could come up with.  I found a good method for three note arps.  <img src=\"https://www.elektronauts.com/images/emoji/twitter/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\">  It may or may not be what he did, but it was a fun experiment.  Works with any sound.</p>\n<p>I set the first LFO to a pulse wave (trigger type) at 33% duty cycle, and then moved the phase until the first 33% of the triggered note is unaffected.  The LFO rate needs to be set so that it covers the full triggered note (typically 16 note).  Then set the amount until it’s the semitone that you want for your SID-arp-chord.</p>\n<p>Do the same thing with LFO 2, only 33% duty cycle, and shift it over to 66% for phase.  Then set your next semitone up.</p>\n<p>You now have three semitones cycling slowly.</p>\n<p>Now you can adjust the LFO rates in relation to your tempo.  You may need to change the gate length to maintain continuity for the arp, and in my case I used four steps per “note” in the sequencer.  You could also use note repeats if you like.</p>\n<p>I then added a sweeping filter to sweep up as the trills/arps played to give it that overarching single-note sound like in a SID tune.  Add a touch of delay maybe.</p>\n<p>You can hear it in the tune I just posted in the Digitone II only tracks thread.</p>\n<p>There are probably lots of fun ways to achieve the same thing, but I wanted to try the LFOs.</p>"
+    },
+    {
+        "id": 2142367,
+        "content": "<p>Teenage Engineering owns the exclusive partnership with Lego I think. <img src=\"https://www.elektronauts.com/images/emoji/twitter/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>"
+    },
+    {
+        "id": 2142377,
+        "content": "<p>Keytracking question…<br>\nIs there a way to decouple the key from the pitch? So I can only use the note # for modulation and it always picks up pitch from the TRIG master setting on the track?</p>"
+    },
+    {
+        "id": 2142390,
+        "content": "<p>Velocity to Vol setting in the Track submenu of the Setup menu.</p>"
+    },
+    {
+        "id": 2142424,
+        "content": "<p>If it’s just for the arp type effect of the SID you could just use the arp. If you set the voice to mono legato, and set gate length to longer than the arp speed you can get it pretty close. Then the amp env won’t retrig. And you can use the regular filter env for filtering.</p>"
+    },
+    {
+        "id": 2142431,
+        "content": "<aside class=\"quote no-group\" data-username=\"Drumunkey\" data-post=\"58\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/drumunkey/40/14867_2.png\" class=\"avatar\"> Drumunkey:</div>\n<blockquote>\n<p>Keytracking question…<br>\nIs there a way to decouple the key from the pitch?</p>\n</blockquote>\n</aside>\n<p>Use Key Tracking on pitch, Depth -8.</p>\n<p>With FM TONE, Pitch ALL as dest. All ops are decoupled<br>\nYou can decouple ops A and B1 (dest Pitch A and B2)</p>\n<p>If you want to decouple C and B1 only, use -8 on Pitch All, +8 on Pitch A and B2.</p>"
+    },
+    {
+        "id": 2142436,
+        "content": "<p>I wasn’t sure if that would do it or not actually, but was doing the LFO trick for the sake of the experiment.  <img src=\"https://www.elektronauts.com/images/emoji/twitter/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\">  Glad to hear that you can use the arpeggiator that way.  I’ve never actually tried before.  <img src=\"https://www.elektronauts.com/images/emoji/twitter/smiley.png?v=9\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\"></p>\n<p>I’m sure there are some other ways too.  Maybe dedicate a track, run it at higher speed, then use locks to emulate the envelope/amp portion.</p>\n<p>Probably some benefits to each method.</p>\n<p>For example, using the 3rd LFO to modulate the duty cycle or phase of one of the first two.  Plus you could use the LFO fades to do some additional tricks too.  Of course, using the actual arp, you have more flexibility in how many notes you can use etc.</p>\n<p>There may also be another way using note repeats and an LFO or something of the sort.  Can never have too many SID/Chip/etc. tricks IMO.  <img src=\"https://www.elektronauts.com/images/emoji/twitter/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>"
+    },
+    {
+        "id": 2142696,
+        "content": "<p>Ive always missed SID mode on the Monomachine Arp. But this is a nice way of getting almost the same. Because when i play single notes, it will still legato the notes, so it doesnt “arp”. hehe.</p>\n<p>Always fun with some Arp frills and SID style crunch.</p>"
+    },
+    {
+        "id": 2142810,
+        "content": "<p>Thanks <a class=\"mention\" href=\"/u/plragde\">@plragde</a> - really appreciate your thoughtful reply.<br>\nYes, am happy to wait. Loads to explore in the meantime <img src=\"https://www.elektronauts.com/images/emoji/twitter/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>"
+    },
+    {
+        "id": 2143076,
+        "content": "<p>One fun tip is that with the new ability to route the bandpass filter to post, it is put after everything including effects (even a post routed SRR which is very fun).</p>\n<p>Since every track has this, you can use CTRL ALL to use it as a master “DJ style” filter, slamming all tracks into post at once and then Ctrl all-ing the bandpass filter (for a nice outro or an intro before quick loading at the peak back to normal).</p>\n<p>You can hear my first use of it when I realized and did it for the first time during my jam, right at the end (jams pretty chaotic otherwise). <a href=\"https://youtu.be/0q9YVZh8ozA?si=O0e8dOiOvutqJJst\" rel=\"noopener nofollow ugc\">https://youtu.be/0q9YVZh8ozA?si=O0e8dOiOvutqJJst</a></p>"
+    },
+    {
+        "id": 2143162,
+        "content": "<aside class=\"quote no-group\" data-username=\"Chroma_Surge\" data-post=\"65\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/chroma_surge/40/223662_2.png\" class=\"avatar\"> Chroma_Surge:</div>\n<blockquote>\n<p>after everything including effects</p>\n</blockquote>\n</aside>\n<p>Interesting ! I thought it was before, but BW FILTER follows written order below. I suppose the order is OVERDRIVE, SRR, BW FILTER…<br>\nAnyone can confirm ?<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/6/9/69faa5e615b51c784b38d5fb92bd9882a06642f8.png\" data-download-href=\"https://www.elektronauts.com/uploads/default/69faa5e615b51c784b38d5fb92bd9882a06642f8\" title=\"image\"><img src=\"https://www.elektronauts.com/uploads/default/original/3X/6/9/69faa5e615b51c784b38d5fb92bd9882a06642f8.png\" alt=\"image\" data-base62-sha1=\"f7x90J7pNmoEc7jJhqnSCaYBLL2\" width=\"690\" height=\"189\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/6/9/69faa5e615b51c784b38d5fb92bd9882a06642f8_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">716×197 17.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>"
+    },
+    {
+        "id": 2143180,
+        "content": "<p>As it says, OD, SRR and BW can each be routed pre- or post- the filter machine, individually.<br>\nIt was a surprise to me too when I learned that BW had always been pre- main filter.<br>\nWhat do you want confirming?</p>"
+    },
+    {
+        "id": 2143196,
+        "content": "<p>Oh hmm according to this it isn’t after all the FX, just OD and SRR (still useful), it sounded like it completely sent everything through when I tested it but I’m not home to try so might be wrong about that part!</p>"
+    },
+    {
+        "id": 2143207,
+        "content": "<aside class=\"quote no-group\" data-username=\"Chroma_Surge\" data-post=\"68\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/chroma_surge/40/223662_2.png\" class=\"avatar\"> Chroma_Surge:</div>\n<blockquote>\n<p>his it isn’t after all the FX</p>\n</blockquote>\n</aside>\n<p>Yes I thought you were talking about FX in FX page, which is the case, not post FX returns…but it works as “master dj filter” with control all anyway…</p>\n<aside class=\"quote no-group\" data-username=\"garf\" data-post=\"67\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/garf/40/121232_2.png\" class=\"avatar\"> garf:</div>\n<blockquote>\n<p>What do you want confirming?</p>\n</blockquote>\n</aside>\n<p>OD SRR and BW slots order, pre or post. I previously thought the order was different because of switches order.<br>\nOrder seems to be as written below.<br>\n<img src=\"https://www.elektronauts.com/uploads/default/original/3X/a/0/a07a893503990d36f663a9d053d68b5a8399779b.png\" alt=\"image\" data-base62-sha1=\"mTEVuNorhhOnAhGTCxckF0WPe0r\" width=\"72\" height=\"49\"></p>"
+    },
+    {
+        "id": 2143427,
+        "content": "<p>This part with the parameter locked trigs for euclidian mode really threw me as previously I thought there was no interaction between the two sequencers and didn’t even realize you could p-lock in euclidian for some reason. But then I had to investigate to figure out what was happening, because the locks weren’t happening where I would have expected based on the original sequence…</p>\n<p>What happens is, if you are in the normal sequencer and parameter lock step 5 (anything you want, can even be a different sound from the pool), when you turn on euclidian mode and turn up the pulses it won’t appear on step 5, but instead it appears on the 5th pulse, wherever in the sequence that is! Very interesting and if you have a lot of parameter locked trigs makes the euclidian sequence very cool and different though somewhat related to the original in a way, as you said.</p>\n<p>The inverse direction also works interestingly enough; if you are in euclidian mode and parameter lock the 10th PULSE wherever it is (like say on page 2 step 8, whatever), when you switch off euclidian and go back, that parameter lock will appear in the normal sequencer as a parameter locked trig on the 10th STEP!</p>\n<p>Very weird but kind of neat and fun! Thanks for pointing out the trick!</p>"
+    },
+    {
+        "id": 2143465,
+        "content": "<p>Actually was so blown away by this that I had to make a video immediately if anyone wants to see in action or can’t follow my explanation… <a href=\"https://youtu.be/AymSzdCFr_s\" rel=\"noopener nofollow ugc\">https://youtu.be/AymSzdCFr_s</a></p>"
+    },
+    {
+        "id": 2143655,
+        "content": "<p>This synthesizer is absolutely brilliant. I’m still finding my way around, but last night I noticed something kind of cool while playing with some of the busier patterns in the preset project: you can do a kind of weird track muting by locking an increasing number of voices - when you lock all 16 you get a mono synth and this will affect which elements can be played. It’s a stochastic and fun way to “fade in” tracks besides mutes.</p>"
+    },
+    {
+        "id": 2143759,
+        "content": "<aside class=\"quote no-group\" data-username=\"Chroma_Surge\" data-post=\"71\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/chroma_surge/40/223662_2.png\" class=\"avatar\"> Chroma_Surge:</div>\n<blockquote>\n<p>blown away by this</p>\n</blockquote>\n</aside>\n<p>At first I thought it was buggy when I plocked Euclidean trigs and see trigs in the “wrong” place in Gric Rec. <img src=\"https://www.elektronauts.com/uploads/default/original/3X/6/d/6d4397b14b0cbc4eecb53d3c8e39f095ee0c684e.png?v=9\" title=\":content:\" class=\"emoji emoji-custom\" alt=\":content:\"></p>\n<p>To sum up, in English is that correct to say :<br>\nThe Grid Recording trigs numbers correspond to Euclidean trigs order ?<br>\nNot sure it is very clear, maybe that’s why they didn’t write it in the manual ! <img src=\"https://www.elektronauts.com/uploads/default/original/3X/1/a/1a17b0de07778a05696f05025a2ef8f3a6e6cf82.png?v=9\" title=\":wink:\" class=\"emoji emoji-custom\" alt=\":wink:\"></p>"
+    },
+    {
+        "id": 2143763,
+        "content": "<aside class=\"quote no-group quote-modified\" data-username=\"sezare56\" data-post=\"69\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/sezare56/40/125768_2.png\" class=\"avatar\"> sezare56:</div>\n<blockquote>\n<aside class=\"quote no-group\" data-username=\"garf\" data-post=\"67\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/garf/40/121232_2.png\" class=\"avatar\"> garf:</div>\n<blockquote>\n<p>What do you want confirming?</p>\n</blockquote>\n</aside>\n<p>OD SRR and BW slots order, pre or post. I previously thought the order was different because of switches order.<br>\nOrder seems to be as written below.<br>\n<img src=\"https://www.elektronauts.com/uploads/default/original/3X/a/0/a07a893503990d36f663a9d053d68b5a8399779b.png\" alt=\"image\" data-base62-sha1=\"mTEVuNorhhOnAhGTCxckF0WPe0r\" width=\"72\" height=\"49\"></p>\n</blockquote>\n</aside>\n<p>Looks like they’re semi-fixed in that order but can be split apart with the Filter Machine.<br>\ne.g. the order can be SRR (pre) &gt; FILTER MACHINE &gt; OD (post) &gt; BW (post)… but you can’t switch the BW to be before the OD (when they’re both post)<br>\nHere’s a diagram using Ableton clips so I don’t have to open Illustrator <img src=\"https://www.elektronauts.com/images/emoji/twitter/smiley.png?v=9\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\"></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/f/0/f048cbdff42182a476267859e098e29ddd1b5f37.png\" data-download-href=\"https://www.elektronauts.com/uploads/default/f048cbdff42182a476267859e098e29ddd1b5f37\" title=\"Screenshot 2024-12-04 at 11.21.41\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/f/0/f048cbdff42182a476267859e098e29ddd1b5f37_2_689x307.png\" alt=\"Screenshot 2024-12-04 at 11.21.41\" data-base62-sha1=\"yhEyCFcigMBqlFuSm8MlNTd1Z2v\" width=\"689\" height=\"307\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/f/0/f048cbdff42182a476267859e098e29ddd1b5f37_2_689x307.png, https://www.elektronauts.com/uploads/default/optimized/3X/f/0/f048cbdff42182a476267859e098e29ddd1b5f37_2_1033x460.png 1.5x, https://www.elektronauts.com/uploads/default/original/3X/f/0/f048cbdff42182a476267859e098e29ddd1b5f37.png 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/f/0/f048cbdff42182a476267859e098e29ddd1b5f37_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2024-12-04 at 11.21.41</span><span class=\"informations\">1344×598 38.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>"
+    },
+    {
+        "id": 2143768,
+        "content": "<aside class=\"quote no-group\" data-username=\"garf\" data-post=\"74\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/garf/40/121232_2.png\" class=\"avatar\"> garf:</div>\n<blockquote>\n<p>Here’s a diagram using Ableton clips so I don’t have to open Illustrator</p>\n</blockquote>\n</aside>\n<p>Hehe thanks, nicer than Excel !<br>\n(I miss Illustrator)<br>\n2^3 routing possibilities. <img src=\"https://www.elektronauts.com/uploads/default/original/3X/1/a/1a17b0de07778a05696f05025a2ef8f3a6e6cf82.png?v=9\" title=\":wink:\" class=\"emoji emoji-custom\" alt=\":wink:\"></p>"
+    },
+    {
+        "id": 2143904,
+        "content": "<p>Yes exactly <img src=\"https://www.elektronauts.com/images/emoji/twitter/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\" class=\"emoji\" alt=\":slightly_smiling_face:\"></p>\n<p>And because of this you’ll naturally hear plocks in the earlier pages of a grid sequence much more often than later ones… for instance if you have 8 pages and put anything on the last page, you’d need to have between 112-128 pulses on euclidian in order to hear anything from that page.</p>"
+    },
+    {
+        "id": 2144350,
+        "content": "<h2>“FX Track\"</h2>\n<p>Probably also possible on the OG. But now we have more tracks it is easy to create a special track for MIDI Loopback which midi channel is set to the midi FX channel.<br>\nSet some cc params to the FX params (you could map them the same as on the FX parameter pages). And voila, you can sequence, P-lock and modulate (LFO) the FX!</p>"
+    },
+    {
+        "id": 2145734,
+        "content": "<h2>Sidechain with a ghost kick</h2>\n<p>If you’re like me and don’t use the DN II as your main Drum/Kick Machine but you want to Sidechain some elements with a « fake Kick », there’s an easy solution. Just don’t send your fake Kick to the Main Output in the Audio Routing menu.</p>"
+    },
+    {
+        "id": 2146634,
+        "content": "<h2>Fix slow LFOs!</h2>\n<p>When an LFO is running at very low speed, it can seem completely broken.<br>\nThe reason is that a voice is randomly stolen on each new trig, and the state of the LFO of each voice is not coherent between voices.</p>\n<p>To fix this, either check the option “reuse” in the voice allocation menu, or choose in Setup/Play mode the “POLY M.LFO”.</p>\n<h2>Alternate between 2 LFOs</h2>\n<p>Keep Play Mode at Poly + Reuse off. Then lock 2 (or 3, 4…) voices for your track.<br>\nYou then get two parallel LFOs with 2 different states that run against each other, being chosen alternatively.<br>\nFun destination for this are amp decay, filter frequency, pan or a drum transient… Have fun!</p>"
+    },
+    {
+        "id": 2146638,
+        "content": "<p>So … technically … that silent kick could be anything …</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/e/8/e8cab98e24baa6104e0bfa0e34c149513605c4bd.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/e8cab98e24baa6104e0bfa0e34c149513605c4bd\" title=\"Cowbell_Header-2946787765\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/e/8/e8cab98e24baa6104e0bfa0e34c149513605c4bd_2_690x388.jpeg\" alt=\"Cowbell_Header-2946787765\" data-base62-sha1=\"xdn6LiA4EGzrachFGCAzASC15eJ\" width=\"690\" height=\"388\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/e/8/e8cab98e24baa6104e0bfa0e34c149513605c4bd_2_690x388.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/e/8/e8cab98e24baa6104e0bfa0e34c149513605c4bd_2_1035x582.jpeg 1.5x, https://www.elektronauts.com/uploads/default/optimized/3X/e/8/e8cab98e24baa6104e0bfa0e34c149513605c4bd_2_1380x776.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/e/8/e8cab98e24baa6104e0bfa0e34c149513605c4bd_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Cowbell_Header-2946787765</span><span class=\"informations\">4800×2700 773 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>"
+    },
+    {
+        "id": 2146642,
+        "content": "<p>How can something be so bizarre yet make so much sense!</p>"
+    },
+    {
+        "id": 2147167,
+        "content": "<p>This is not a tip, but a real pain in the a…<br>\nAs you can mute on the fly using the FUNC button, I often erase patern hitting PLAY wile still holding FUNC. Hopefully it can be undo by hitting PLAY again, but sometimes  you went too deep and it’s goooooone… <img src=\"https://www.elektronauts.com/images/emoji/twitter/face_with_symbols_over_mouth.png?v=9\" title=\":face_with_symbols_over_mouth:\" class=\"emoji\" alt=\":face_with_symbols_over_mouth:\"></p>"
+    },
+    {
+        "id": 2147210,
+        "content": "<p>Why you want to mute the Play button is where the weirdness lies  <img src=\"https://www.elektronauts.com/images/emoji/twitter/clown_face.png?v=9\" title=\":clown_face:\" class=\"emoji\" alt=\":clown_face:\"></p>"
+    },
+    {
+        "id": 2147219,
+        "content": "<p>does anyone know what Operator C is in “FM DRUM”? is there any control somehow, aside from the phase in the noise page?</p>\n<p>from the manual: “NRM<br>\nNoise Ring Mod will (when switched on) use Operator C as ring modulator for the noise”</p>\n<p>noise ring mod sounds interesting but i dont get how to implement it really</p>\n<p><img src=\"https://www.elektronauts.com/uploads/default/original/3X/4/0/40251f22393e8960670f1257b5c3b7d656786a54.png\" alt=\"image\" data-base62-sha1=\"99s5D3ap2uz3Y1AgrfS8ty1QczW\" width=\"574\" height=\"52\"></p>"
+    },
+    {
+        "id": 2147235,
+        "content": "<aside class=\"quote no-group\" data-username=\"less_wexners\" data-post=\"84\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/less_wexners/40/213091_2.png\" class=\"avatar\"> less_wexners:</div>\n<blockquote>\n<p>does anyone know what Operator C is in “FM DRUM”? is there any control somehow</p>\n</blockquote>\n</aside>\n<p>C = Carrier.<br>\nControl on waveform, pitch, wave fold, etc…all body control except A and B parameters in second page.</p>\n<aside class=\"quote no-group\" data-username=\"less_wexners\" data-post=\"84\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/less_wexners/40/213091_2.png\" class=\"avatar\"> less_wexners:</div>\n<blockquote>\n<p>noise ring mod sounds interesting but i dont get how to implement it</p>\n</blockquote>\n</aside>\n<p>It makes the noise softer, more alive. Try low pitch for C.</p>"
+    },
+    {
+        "id": 2147398,
+        "content": "<h2>Cool Keytrack destinations</h2>\n<p>(Please edit this post and add your own here)</p>\n<ul>\n<li>on FM TONE, a pad with Keytrack on A ENV Decay enhance the rising of harmonics, like a filter opening</li>\n<li>On any machine, negative KeyTrack depth on AMP VOL, to tame higher notes (sezare56)</li>\n<li>Keytrack Depth -8 on tune for fixed frequency (sezare56)</li>\n<li>keytracking of -22 to SRR gives roughly consistent sample rate reduction effect when played up and down the keyboard.</li>\n</ul>"
+    },
+    {
+        "id": 2147452,
+        "content": "<p>Could you explain the alternate LFO technique in a bit more detail?</p>"
+    },
+    {
+        "id": 2147457,
+        "content": "<p>I’ll add to this that a keytracking of -22 to SRR gives roughly consistent sample rate reduction effect when played up and down the keyboard. It’s not perfect, but much more consistent than it is normally is when you try to play up the octaves with sample rate reduction.</p>"
+    },
+    {
+        "id": 2147479,
+        "content": "<p>Each voice has its own LFO.<br>\nTry with something obvious like pitch.<br>\nIf you play one note repeatedly, it will switch to a free voice, by default.<br>\nIf you lock two voices for the track, each 2 notes will use the same voice. So you basically ping pong between two LFOs running in parallel, synchronized in speed but with different phases.</p>\n<p>This also works for random LFO with max Slew. There, the LFOs play a dance, each in their own way…</p>\n<p>And you can choose 3 among many destinations.<br>\nI really love this, it’s quickly hypnotic.</p>\n<p>Similarly, if you use unison with wide spread and dramatic LFO destinations you can have a completely different sound on the sound field (ex. try RND on HOLD mode on a destination like OP RATIO and you will have a different note for each voice).</p>"
+    },
+    {
+        "id": 2147487,
+        "content": "<h2>You can change tracks while picking presets</h2>\n<p>I find this handy… For organization reasons, I like to have the same types of sounds always on the same tracks. Makes it easier to remember what happens when I switch tracks…</p>\n<p>anyway, I just discovered that if I’m on my kick track picking a preset, but find a good snare, I can switch to the snare track and load the preset without having to leave the preset screen. Nice little feature…</p>"
+    },
+    {
+        "id": 2148751,
+        "content": "<aside class=\"quote no-group\" data-username=\"Burpy\" data-post=\"77\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/burpy/40/3413_2.png\" class=\"avatar\"> Burpy:</div>\n<blockquote>\n<p>MIDI Loopback</p>\n</blockquote>\n</aside>\n<p>To be more precise about midi loopback:</p>\n<ul>\n<li>deactivate midi sync and transport</li>\n<li>plug a midi cable between midi in and midi out</li>\n</ul>"
+    },
+    {
+        "id": 2148766,
+        "content": "<aside class=\"quote no-group\" data-username=\"LyingDalai\" data-post=\"93\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/lyingdalai/40/51916_2.png\" class=\"avatar\"> LyingDalai:</div>\n<blockquote>\n<p>deactivate midi sync and transport</p>\n</blockquote>\n</aside>\n<p>From my previous midi loopback tests with other Elektrons you can send clock and transport, which is sent back with midi Thru to synchronise other gear.</p>\n<p>Just don’t activate send AND receive, instant FREEEEZZE !</p>"
+    },
+    {
+        "id": 2149445,
+        "content": "<p>On top of it it gets cleared on every note unless poly mode is legato.  You’re left with limitations on what kinds of sounds you can make that actually make worthwhile use of the effect.  Weird and bad to hear the echoes being cut off.  Would love to see some kind of option that allows it to function more like a send delay.</p>"
+    },
+    {
+        "id": 2149484,
+        "content": "<aside class=\"quote no-group\" data-username=\"Roger\" data-post=\"95\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/roger/40/152641_2.png\" class=\"avatar\"> Roger:</div>\n<blockquote>\n<p>On top of it it gets cleared on every note unless poly mode is legato.</p>\n</blockquote>\n</aside>\n<p>Not with poly setting. The thing is that filter is before amp, so it depends on note length and amp settings. With infinite release it isn’t stopped, and polyphonic. It is cut when you reach max polyphony.</p>\n<p>(I edited the post you replied too, I already corrected myself on the post below but you may have missed it)</p>\n<aside class=\"quote no-group\" data-username=\"Roger\" data-post=\"95\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/roger/40/152641_2.png\" class=\"avatar\"> Roger:</div>\n<blockquote>\n<p>Weird and bad to hear the echoes being cut off</p>\n</blockquote>\n</aside>\n<p>Try again ! <img src=\"https://www.elektronauts.com/uploads/default/original/3X/1/a/1a17b0de07778a05696f05025a2ef8f3a6e6cf82.png?v=9\" title=\":wink:\" class=\"emoji emoji-custom\" alt=\":wink:\"><br>\nEven closing LPF <span class=\"mention\">@50s</span> it last long. Keytrack 100%, FREQ = 0, lfo on FREQ, PAN.</p>\n<p><audio preload=\"metadata\" controls=\"\">\n    <source src=\"/uploads/default/original/3X/c/0/c0f0a34553c28d06421b1d2b8c703ef6b38bfe79.m4a\">\n    <a href=\"https://www.elektronauts.com/uploads/default/original/3X/c/0/c0f0a34553c28d06421b1d2b8c703ef6b38bfe79.m4a\">/uploads/default/original/3X/c/0/c0f0a34553c28d06421b1d2b8c703ef6b38bfe79.m4a</a>\n  </audio></p>"
+    },
+    {
+        "id": 2149587,
+        "content": "<p><a class=\"mention\" href=\"/u/burpy\">@Burpy</a>’s comb filter trick is great for getting different delay times for each track.</p>\n<p>Here’s my shot at it, no FX, completely dry, except for a slight OD on one track.</p>\n<p><audio preload=\"metadata\" controls=\"\">\n    <source src=\"/uploads/default/original/3X/2/1/218949250adc1540478977837d071ab65c81098d.mp3\">\n    <a href=\"https://www.elektronauts.com/uploads/default/original/3X/2/1/218949250adc1540478977837d071ab65c81098d.mp3\">/uploads/default/original/3X/2/1/218949250adc1540478977837d071ab65c81098d.mp3</a>\n  </audio></p>"
+    },
+    {
+        "id": 2149594,
+        "content": "<aside class=\"quote no-group\" data-username=\"Roger\" data-post=\"95\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/roger/40/152641_2.png\" class=\"avatar\"> Roger:</div>\n<blockquote>\n<p>Weird and bad</p>\n</blockquote>\n</aside>\n<p>Sounds like my cup of tea</p>"
+    },
+    {
+        "id": 2149602,
+        "content": "<p>Also, it has been mentioned that if you use unison with wide spread and dramatic LFO destinations you can have a completely different sound on the sound field (ex. try RND on HOLD mode on a destination like OP RATIO and you will have a different note for each voice).</p>"
+    },
+    {
+        "id": 2149620,
+        "content": "<p>I’ll add it.</p>"
+    },
+    {
+        "id": 2149630,
+        "content": "<p>Thinking about my combfilter delay trick. It’s also a nice way to create a delay you can modulate / p-lock etc. without going for the midi loopback trick.</p>"
+    },
+    {
+        "id": 2149679,
+        "content": "<p>How do I select a track, so that I can edit the parameters, without it playing?<br>\nI mean, I have a sequencer on the ipad running into midi channels 1-4</p>\n<p>I want to flit about between tracks 1-4, making adjustments to the sounds, but I don’t want a note to sound when I select that trig</p>"
+    },
+    {
+        "id": 2149717,
+        "content": "<p>Hold the TRK key when selecting the track and it won’t play.</p>"
+    },
+    {
+        "id": 2149738,
+        "content": "<p>DNII<br>\nWill try what <a class=\"mention\" href=\"/u/warpigs330\">@warpigs330</a> suggested…</p>\n<p>Thanks both</p>"
+    },
+    {
+        "id": 2149743,
+        "content": "<p>yep that works! cheers <a class=\"mention\" href=\"/u/warpigs330\">@warpigs330</a></p>"
+    },
+    {
+        "id": 2150213,
+        "content": "<p>Here’s a fun one for humanizing shakers and other percussion</p>\n<p><strong>Arp for Perc Loops</strong></p>\n<ol>\n<li>On FM Drum, set up Keyboard Tracking : -8 to Tune (to cancel out), then values as desired for Amp Decay and any timbre shaping parameters.</li>\n<li>Turn on the arp, dial in a pattern of rhythm and pitch. (Higher and lower notes will be different lengths.)</li>\n<li>Play the arp with multiple notes (and/or change other settings), it’ll follow the pattern of decays with little variations.</li>\n</ol>"
+    },
+    {
+        "id": 2150245,
+        "content": "<p>Very cool idea! Unfortunately it loses the swing when you use the arp. I think it might work better to use just normal trigs and tweak the notes. Set say an 8 trig length for the track and set the notes and velocity and microtiming will give a bit more control and humanization.</p>"
+    },
+    {
+        "id": 2150290,
+        "content": "<p>The other day I thought I found the arp to follow the swing setting.  Was I imagining it?</p>"
+    },
+    {
+        "id": 2150293,
+        "content": "<p>Pretty sure arp and retrigger do not follow swing, though if the arp starts on a swung step it will remain out of sync until it stops arping</p>"
+    },
+    {
+        "id": 2150408,
+        "content": "<p>/12 and /24 timing are triplets, so it might have been one of those.</p>"
+    },
+    {
+        "id": 2150564,
+        "content": "<p>Is there a reason why the current project name isn’t displayed on the main screen?</p>"
+    },
+    {
+        "id": 2150605,
+        "content": "<p>Lack of space?<br>\nI mean, knowing the project name isn’t particularly useful in my opinion. You have one to remember for many patterns (probably hours of music). Pattern name is clearly more useful considering the limited screen space</p>"
+    },
+    {
+        "id": 2152311,
+        "content": "<p>Any tips for getting MIDI learn to work consistently? I cannot get it to pick up CC messages from my iPad or Logic on Mac.</p>"
+    },
+    {
+        "id": 2153203,
+        "content": "<p>ok, thanks<br>\nguess I don’t really understand how this thing works yet…<br>\nthe whole elektron ecosystem is new to me, so I’m still getting my head around how patterns etc work…</p>"
+    },
+    {
+        "id": 2153299,
+        "content": "<p>I really encourage you to read the manual.<br>\nI know it’s not the wildest read there is, but you don’t need to read it all cover to cover in one pass, and for things like internal structure it’s quite the best ressource there is.</p>"
+    },
+    {
+        "id": 2153590,
+        "content": "<aside class=\"quote no-group\" data-username=\"LyingDalai\" data-post=\"116\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/lyingdalai/40/51916_2.png\" class=\"avatar\"> LyingDalai:</div>\n<blockquote>\n<p>you don’t need to read it all cover to cover in one pass</p>\n</blockquote>\n</aside>\n<p>I’m on pass number 256, and I still find some obscure little tidbit…</p>\n<p>I mean, it’s not as bad as Roland… <img src=\"https://www.elektronauts.com/images/emoji/twitter/stuck_out_tongue_winking_eye.png?v=9\" title=\":stuck_out_tongue_winking_eye:\" class=\"emoji\" alt=\":stuck_out_tongue_winking_eye:\"></p>"
+    },
+    {
+        "id": 2154197,
+        "content": "<p>I didn’t think I would be interested in using the midi tracks to send midi to external gear - I had only really thought about using , for example, my ipad to send midi into the DNII, but after watching a Cuckoo vid on the OG DN I’ve just had a revelation.<br>\nWould this work? : I connect my Korg Microsampler (yes, it’s an antique, but I love it) to the DNII via a 5 pin din cable. Then I could send 8 tracks of midi to the KMS, routing the audio back into the DNII, and have those samples play alongside 8 tracks of audio from the Digitone. Is that feasible? And if so, would I need each sample on the KMS to be on a different midi channel?<br>\nThis will blow my tiny mind if it’s possible. Basically I could use the DNII as a sampler</p>"
+    },
+    {
+        "id": 2154255,
+        "content": "<p>I am unsure how the KMS needs to be configured to receive MIDI, but yeah for sure, the DN2 can do those things. It’s exactly what the MIDI tracks and audio inputs are for. You can sequence stuff, if the instrument you are controlling has assignable MIDI CC’s you can Plock them or use LFO’s to modulate them, and then you can process the audio in with the delay/reverb/chorus send effects, run it through the compressor and master overdrive…all those things.</p>"
+    },
+    {
+        "id": 2154261,
+        "content": "<p>Great! Thanks <a class=\"mention\" href=\"/u/davestasiuk\">@davestasiuk</a><br>\nWell, as long as that is possible in principle then I may even consider grabbing an SP404 mk2, which is less cumbersome than the Microsampler for touring…</p>\n<p>Interested to hear how others might be coupling the DN2 with hardware samplers</p>"
+    },
+    {
+        "id": 2155002,
+        "content": "<p>for me the logical thing to do is hooking the DN2 thought DTK2 ins , so when i resample DIgitakt 2 i also have digitone 2 sounds and mangle all that in digitakt 2 , next song/video is all about it.</p>"
+    },
+    {
+        "id": 2156276,
+        "content": "<h2>Quick-selecting a Preset Bank</h2>\n<p>Just stumbled across this, not seen it mentioned anywhere before:<br>\nWith the Preset menu open, you can quickly choose the Preset Bank by pressing down the encoders (A, B, C…). You can also return to ALL by double-pressing an encoder.</p>\n<p>Much faster than the left-arrow menu &gt; SEL BANK method.<br>\nIt doesn’t work on DT2, just DN2 for now.</p>"
+    },
+    {
+        "id": 2156406,
+        "content": "<aside class=\"quote no-group\" data-username=\"garf\" data-post=\"122\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/garf/40/121232_2.png\" class=\"avatar\"> garf:</div>\n<blockquote>\n<p>choose the Preset Bank by pressing down the encoders (A, B, C…)</p>\n</blockquote>\n</aside>\n<p>Nice. I was using Func + Pattern (Bank). Encoders seems better.</p>"
+    },
+    {
+        "id": 2156412,
+        "content": "<p>Something else to keep in mind since you mentioned iPad…<br>\nThe DN2 is really nice in terms of how it can handle internal audio routing.</p>\n<p>So instead of dropping money on an SP404 (at least until you’re sure you like the workflow etc.) is to buy Koala sampler which is basically as good or better than an SP404, especially when paired with something like AUM (minus the physical knobs, but those of course can be added via midi controllers).</p>\n<p>You can go into DN2 settings, disable the main audio to out, route USB audio into ipad, route to FX, Koala, etc. etc. to process it, then route audio to the DN2 audio out.</p>\n<p>So you have an astonishingly powerful audio setup with nothing more than an ipad and the DN2.</p>\n<p>And all the midi can be routed over USB as well of course, so you can use midi channels to send the DN2’s knobs to AUM for physical controls. The midi channel knobs don’t even have to be “related” to the notes that are being sent over that midi channel.</p>\n<p>So you could, as an example, use DN2’s TR16 to send midi note sequencer data, but then use the knobs to control mixer functions in AUM… The possibilities are literally endless… Especially if you then do things like use MidiDesignerPro to build a control surface… Use apps like Turnado…</p>"
+    },
+    {
+        "id": 2156584,
+        "content": "<p>Oh my god you chad!</p>"
+    },
+    {
+        "id": 2157633,
+        "content": "<p>Hey <a class=\"mention\" href=\"/u/drumunkey\">@Drumunkey</a>. Appreciate your input.<br>\nI have Koala. Will definitely explore these options.<br>\nThanks for taking the time to help</p>"
+    },
+    {
+        "id": 2160911,
+        "content": "<p>is “LOAD TO EMPTY” in the Kits menu common knowledge?</p>\n<p>I assume its not new to the dn2, but i never noticed it before. i had Perplexity ‘ai’ read the dn2 manual pdf so i can ask it questions more quickly than i can read and understand the pdf myself and it told me this:</p>\n<blockquote>\n<p>The “LOAD TO EMPTY” command in the KIT OPERATIONS menu of the Digitone II loads the selected kit to all empty patterns in the current project. This allows you to quickly populate multiple empty patterns with the same kit, which can be useful for setting up a project with a consistent starting point across multiple patterns.This feature saves time when you want to use a particular kit as a basis for several patterns, as you don’t have to manually load the kit into each empty pattern individually. It only affects empty patterns, so any patterns that already contain data will not be overwritten.</p>\n</blockquote>\n<p>if accurate, it seems really handy for working with templates</p>\n<p>sorry if this isnt reallya tip.more like a basic function i’ve failed to recognize until now</p>"
+    },
+    {
+        "id": 2160941,
+        "content": "<aside class=\"quote no-group\" data-username=\"less_wexners\" data-post=\"127\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/less_wexners/40/213091_2.png\" class=\"avatar\"> less_wexners:</div>\n<blockquote>\n<p>is “LOAD TO EMPTY” in the Kits menu common knowledge?</p>\n</blockquote>\n</aside>\n<p>I didn’t know it, thanks !<br>\nI didn’t see it on DT2 so it seems new !<br>\n<a class=\"mention\" href=\"/u/less_wexners\">@less_wexners</a> I just tested.</p>\n<aside class=\"quote no-group\" data-username=\"less_wexners\" data-post=\"127\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/less_wexners/40/213091_2.png\" class=\"avatar\"> less_wexners:</div>\n<blockquote>\n<p>It only affects empty patterns, so any patterns that already contain data will not be overwritten</p>\n</blockquote>\n</aside>\n<p>That was not clear I so checked : I think formulation is wrong concerning data.</p>\n<h3>A pattern is considered as empty if there is no trig, whatever settings are made, even if a kit has been loaded before.</h3>\n<p>So beware I you play or sequence DN2 externally on some patterns and don’t want to erase it with LOAD TO EMPTY : put a YELLOW TRIG otherwise it is considered as empty.</p>\n<aside class=\"quote no-group\" data-username=\"less_wexners\" data-post=\"127\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/less_wexners/40/213091_2.png\" class=\"avatar\"> less_wexners:</div>\n<blockquote>\n<p>seems really handy for working with templates</p>\n</blockquote>\n</aside>\n<p>Yes. But following parameters aren’t loaded :</p>\n<ul>\n<li>TRIG pages</li>\n<li>KB setup</li>\n<li>SCALE setup</li>\n<li>QUANTIZE setup</li>\n<li>TEMPO setup</li>\n<li>…</li>\n</ul>\n<p>(Tell me if I forgot one)</p>\n<p>These settings seems to be part of pattern data but they are not cleared when you use CLEAR WHOLE PATTERN.</p>\n<p>Personnaly I’d save a template project with my favorite pattern data (KB setup for sure) and LOAD TO EMPTY after with my most recent default kit, or a specific one.</p>"
+    },
+    {
+        "id": 2161296,
+        "content": "<p>this is good to know, thank you for clarifying and testing</p>\n<p>i haven’t had much time to test yet. but i will as soon as i get a chance</p>"
+    },
+    {
+        "id": 2163656,
+        "content": "<p>hey is anyone willing to share some tips on how to make some nice snares with the fm drum machine?</p>\n<p>it’s one thing i’m kind of struggling with</p>\n<p>thank you in advance!</p>"
+    },
+    {
+        "id": 2167774,
+        "content": "<p>here’s <a class=\"mention\" href=\"/u/mpiecora\">@mpiecora</a> gently walking through some fundamental pattern-building techniques and basic sound design</p>\n<p>maintaining a consistently articulate, coherent, entertaining, and unedited (!) session for 2.5 hours is something that only a truly gifted educator is capable of <img src=\"https://www.elektronauts.com/images/emoji/twitter/black_heart.png?v=9\" title=\":black_heart:\" class=\"emoji\" alt=\":black_heart:\"></p>\n<div class=\"onebox lazyYT lazyYT-container\" data-youtube-id=\"KgLR875t3qo\" data-youtube-title=\" - YouTube\" data-parameters=\"feature=oembed&amp;wmode=opaque&amp;start=5402\">\n  <a href=\"https://www.youtube.com/watch?v=KgLR875t3qo\" target=\"_blank\" rel=\"noopener nofollow ugc\">\n    <img class=\"ytp-thumbnail-image\" src=\"https://img.youtube.com/vi/KgLR875t3qo/hqdefault.jpg\" title=\" - YouTube\" width=\"480\" height=\"360\">\n  </a>\n</div>\n"
+    },
+    {
+        "id": 2167800,
+        "content": "<p>Love this guy.<br>\nHe just made a little confusion with the filter type destination (lfo) witch doesn’t change between the different filter machine . (But switch between low pass, band pass, High pass, in the new filter).</p>\n<p>But everything else is good to take (his octatrack preset are amazing too!</p>"
+    },
+    {
+        "id": 2167821,
+        "content": "<h2>Formants</h2>\n<div class=\"onebox lazyYT lazyYT-container\" data-youtube-id=\"mgoSNjLf-KE\" data-youtube-title=\" - YouTube\" data-parameters=\"feature=oembed&amp;wmode=opaque\">\n  <a href=\"https://www.youtube.com/watch?v=mgoSNjLf-KE\" target=\"_blank\" rel=\"noopener nofollow ugc\">\n    <img class=\"ytp-thumbnail-image\" src=\"https://img.youtube.com/vi/mgoSNjLf-KE/hqdefault.jpg\" title=\" - YouTube\" width=\"480\" height=\"360\">\n  </a>\n</div>\n\n<p>Using 4 tracks with resonant bandwidth filter.<br>\nWavetone saw.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/e/9/e91404ca3e83bccb11026adb1964575dac4c26fb.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/e91404ca3e83bccb11026adb1964575dac4c26fb\" title=\"IMG_0427\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/e/9/e91404ca3e83bccb11026adb1964575dac4c26fb_2_690x391.jpeg\" alt=\"IMG_0427\" data-base62-sha1=\"xfU8I6jdyVEHOFQgfHmRvsnajQT\" width=\"690\" height=\"391\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/e/9/e91404ca3e83bccb11026adb1964575dac4c26fb_2_690x391.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/e/9/e91404ca3e83bccb11026adb1964575dac4c26fb_2_1035x586.jpeg 1.5x, https://www.elektronauts.com/uploads/default/optimized/3X/e/9/e91404ca3e83bccb11026adb1964575dac4c26fb_2_1380x782.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/e/9/e91404ca3e83bccb11026adb1964575dac4c26fb_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">IMG_0427</span><span class=\"informations\">2464×1398 445 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>“A” Vowel filter frequencies are<br>\n75<br>\n84<br>\n96<br>\n100</p>\n<p>“U” Modwheel<br>\n-9.5<br>\n5.7<br>\n-2.2<br>\n2.5</p>\n<p>“E” Pitchbend<br>\n-5.4<br>\n7.8<br>\n2.85<br>\n2.8</p>\n<p>Thanks to <a class=\"mention\" href=\"/u/sleepystevo\">@sleepystevo</a> for the idea on Octatrack.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/8/a/8a3222d002e890e580967727370f9dcba5337f40.png\" data-download-href=\"https://www.elektronauts.com/uploads/default/8a3222d002e890e580967727370f9dcba5337f40\" title=\"IMG_0424\"><img src=\"https://www.elektronauts.com/uploads/default/original/3X/8/a/8a3222d002e890e580967727370f9dcba5337f40.png\" alt=\"IMG_0424\" data-base62-sha1=\"jIxj1fHFdQuEGUE2PgXeocTxUis\" width=\"431\" height=\"500\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/8/a/8a3222d002e890e580967727370f9dcba5337f40_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">IMG_0424</span><span class=\"informations\">695×806 20.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>"
+    },
+    {
+        "id": 2167859,
+        "content": "<p>You can get some real good snares via only using the transients from the FM Drum machine…</p>"
+    },
+    {
+        "id": 2168131,
+        "content": "<aside class=\"quote no-group\" data-username=\"sketcherone\" data-post=\"134\" data-topic=\"222373\" data-full=\"true\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/sketcherone/40/91888_2.png\" class=\"avatar\"> sketcherone:</div>\n<blockquote>\n<p>You can get some real good snares via only using the transients from the FM Drum machine…</p>\n</blockquote>\n</aside>\n<p>i know but for some reason it feels like cheating to be overly dependent on the transients</p>\n<p>i guess i just need to get over myself lol</p>"
+    },
+    {
+        "id": 2168241,
+        "content": "<p>can i use the arp in kind of a legato mode, without retriggering the amp and filter env?</p>"
+    },
+    {
+        "id": 2168467,
+        "content": "<p>Yep, for legato arps, just: 1) setup &gt; play mode &gt; mono legato, then  2) in arp menu, make N.Len greater than speed.</p>"
+    },
+    {
+        "id": 2169279,
+        "content": "<p>What do the modwheel and pitchbend numbers mean here?</p>"
+    },
+    {
+        "id": 2169295,
+        "content": "<aside class=\"quote no-group\" data-username=\"a_str8\" data-post=\"138\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/letter_avatar/a_str8/40/5_6363c49f2373467b0c1a609f08282e85.png\" class=\"avatar\"> a_str8:</div>\n<blockquote>\n<p>modwheel and pitchbend numbers</p>\n</blockquote>\n</aside>\n<p>They are set to shift frequencies to vowel target. I did it with a frequency analyser, following the vowel frequencies table I joined.</p>"
+    },
+    {
+        "id": 2173031,
+        "content": "<ol>\n<li>\n<p>Double tapping the stop button will turn off all sounds. This is useful if a note gets stuck on or if you went too crazy with delay feedback. I’m not sure if this is in the manual</p>\n</li>\n<li>\n<p>The PRE and NEI trigger conditions interact with the fill condition and probability. For example, if you set a note to play 50% of the time and then the following notes to play with the PRE condition, the whole set will either play or it won’t.</p>\n</li>\n</ol>\n<p>Edited to add:<br>\nFor <span class=\"hashtag\">#2</span>, this only works if you plock probability. If probability for the entire track is set to 50% and there is no plock for your first note, the PRE and NEI conditions will not be triggered ever.<br>\nThanks <a href=\"https://www.elektronauts.com/u/sezare56\">sezare56</a> for pointing this out</p>"
+    },
+    {
+        "id": 2173122,
+        "content": "<aside class=\"quote no-group\" data-username=\"a_str8\" data-post=\"140\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/letter_avatar/a_str8/40/5_6363c49f2373467b0c1a609f08282e85.png\" class=\"avatar\"> a_str8:</div>\n<blockquote>\n<p>PRE and NEI trigger conditions interact with the fill condition and probability</p>\n</blockquote>\n</aside>\n<p>I wish it was true. PROBability parameter doesn’t interact with PRE and NEI trig conditions UNLESS it is plocked.</p>\n<p>Edit : Sorry <a class=\"mention\" href=\"/u/a_str8\">@a_str8</a><br>\nI had to edit my post, I misunderstood what you meant because I consider a plocked Probability as a % trig condition, that existed before Probability on previous Elektrons. It wasn’t possible to plock Probability and trig conditions were overriding it.</p>\n<p>I wish PRE and NEI could interact with Probability WITHOUT plocks, otherwise it is really boring to set on up to 8 pages, and no Control All possible.</p>\n<p>Btw in the manual it is stated that NEI and PRE interact with true trig conditions…Prob isn’t mentioned in that chapter.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/2/a/2a583696b28bcc874d3b057f014f4b623f7370b5.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/2a583696b28bcc874d3b057f014f4b623f7370b5\" title=\"Screenshot_20250113-214539_Adobe Acrobat\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/2/a/2a583696b28bcc874d3b057f014f4b623f7370b5_2_690x288.jpeg\" alt=\"Screenshot_20250113-214539_Adobe Acrobat\" data-base62-sha1=\"62B35ecpNnVzQBhosFxtaVZVJxr\" width=\"690\" height=\"288\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/2/a/2a583696b28bcc874d3b057f014f4b623f7370b5_2_690x288.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/2/a/2a583696b28bcc874d3b057f014f4b623f7370b5_2_1035x432.jpeg 1.5x, https://www.elektronauts.com/uploads/default/original/3X/2/a/2a583696b28bcc874d3b057f014f4b623f7370b5.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/2/a/2a583696b28bcc874d3b057f014f4b623f7370b5_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot_20250113-214539_Adobe Acrobat</span><span class=\"informations\">1080×452 182 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div> <div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/3/2/32b7430ed344eb6b60a87060653e237326b6617e.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/32b7430ed344eb6b60a87060653e237326b6617e\" title=\"Screenshot_20250113-215411_Adobe Acrobat\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/3/2/32b7430ed344eb6b60a87060653e237326b6617e_2_690x95.jpeg\" alt=\"Screenshot_20250113-215411_Adobe Acrobat\" data-base62-sha1=\"7eEvE5sgrgmwHNiFnzGKfCMWD2S\" width=\"690\" height=\"95\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/3/2/32b7430ed344eb6b60a87060653e237326b6617e_2_690x95.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/3/2/32b7430ed344eb6b60a87060653e237326b6617e_2_1035x142.jpeg 1.5x, https://www.elektronauts.com/uploads/default/original/3X/3/2/32b7430ed344eb6b60a87060653e237326b6617e.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/3/2/32b7430ed344eb6b60a87060653e237326b6617e_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot_20250113-215411_Adobe Acrobat</span><span class=\"informations\">1080×149 53.2 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>"
+    },
+    {
+        "id": 2173126,
+        "content": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/0/9/099e2ba7b33322fae8a40780bb57134ea9733a94.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/099e2ba7b33322fae8a40780bb57134ea9733a94\" title=\"20250113_010315\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/0/9/099e2ba7b33322fae8a40780bb57134ea9733a94_2_690x376.jpeg\" alt=\"20250113_010315\" data-base62-sha1=\"1n5aUE4JvqEg23Ic4Y8qaPk2hBa\" width=\"690\" height=\"376\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/0/9/099e2ba7b33322fae8a40780bb57134ea9733a94_2_690x376.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/0/9/099e2ba7b33322fae8a40780bb57134ea9733a94_2_1035x564.jpeg 1.5x, https://www.elektronauts.com/uploads/default/optimized/3X/0/9/099e2ba7b33322fae8a40780bb57134ea9733a94_2_1380x752.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/0/9/099e2ba7b33322fae8a40780bb57134ea9733a94_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">20250113_010315</span><span class=\"informations\">2147×1172 371 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>In setup, RENAME, for preset name.<br>\n(I didn’t noticed before and found it practical for kits).<br>\nBy default, track presets are named PRESET 1-16.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://www.elektronauts.com/uploads/default/original/3X/c/8/c8d3e094f07e7fb1754b4b4cf2d97e4fb5aefa99.jpeg\" data-download-href=\"https://www.elektronauts.com/uploads/default/c8d3e094f07e7fb1754b4b4cf2d97e4fb5aefa99\" title=\"Screenshot_20250118-124821_Adobe Acrobat\"><img src=\"https://www.elektronauts.com/uploads/default/optimized/3X/c/8/c8d3e094f07e7fb1754b4b4cf2d97e4fb5aefa99_2_690x279.jpeg\" alt=\"Screenshot_20250118-124821_Adobe Acrobat\" data-base62-sha1=\"sEBrdIAA7N1vbk9nU1Vth6htbGp\" width=\"690\" height=\"279\" srcset=\"https://www.elektronauts.com/uploads/default/optimized/3X/c/8/c8d3e094f07e7fb1754b4b4cf2d97e4fb5aefa99_2_690x279.jpeg, https://www.elektronauts.com/uploads/default/optimized/3X/c/8/c8d3e094f07e7fb1754b4b4cf2d97e4fb5aefa99_2_1035x418.jpeg 1.5x, https://www.elektronauts.com/uploads/default/original/3X/c/8/c8d3e094f07e7fb1754b4b4cf2d97e4fb5aefa99.jpeg 2x\" data-small-upload=\"https://www.elektronauts.com/uploads/default/optimized/3X/c/8/c8d3e094f07e7fb1754b4b4cf2d97e4fb5aefa99_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot_20250118-124821_Adobe Acrobat</span><span class=\"informations\">1080×438 89.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>"
+    },
+    {
+        "id": 2173270,
+        "content": "<p>Hi,</p>\n<p>If I change the trig mode to “retrigs” and then press live record mode, record in the trigs, it would be logical to me that the trigs in the sequence are contains the retrig parameters in the trig page. However the trigs are not retrigs, just normal trigs…</p>\n<p>So its just me, or how can I do that/how is it works?</p>"
+    },
+    {
+        "id": 2173275,
+        "content": "<aside class=\"quote no-group\" data-username=\"lazlybateamn\" data-post=\"146\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/lazlybateamn/40/161809_2.png\" class=\"avatar\"> lazlybateamn:</div>\n<blockquote>\n<p>how can I do that/how is it works?</p>\n</blockquote>\n</aside>\n<p>How can’t it work ?<br>\nI checked, worked for me. Nothing particular to do. I can’t see a parameter that would block it…are you sure you selected Retrig trig mode ?</p>"
+    },
+    {
+        "id": 2173280,
+        "content": "<p>The retrigs’ velocity fade isn’t included when playing them live. I find that a bit of a downer too. Dunno if that’s what lazly means though.</p>"
+    },
+    {
+        "id": 2173281,
+        "content": "<p></p><div class=\"video-container\">\n    <video width=\"100%\" height=\"100%\" preload=\"metadata\" controls=\"\">\n      <source src=\"/uploads/default/original/3X/0/2/020cb02637acdf7890257cd054203c11f53c9fd7.mp4\">\n      <a href=\"https://www.elektronauts.com/uploads/default/original/3X/0/2/020cb02637acdf7890257cd054203c11f53c9fd7.mp4\">/uploads/default/original/3X/0/2/020cb02637acdf7890257cd054203c11f53c9fd7.mp4</a>\n    </video>\n  </div><p></p>"
+    },
+    {
+        "id": 2173285,
+        "content": "<p><a class=\"mention\" href=\"/u/lazlybateamn\">@lazlybateamn</a> maybe your AMP settings that cut other retrigs…<br>\nCan you see RETRIG parameters locked ?</p>"
+    },
+    {
+        "id": 2173286,
+        "content": "<p>and check VFAD on TRIG page 2, it might be at -64 or something?</p>"
+    },
+    {
+        "id": 2173304,
+        "content": "<p>AMP settings nothing, tested all.<br>\nRETRIG parameters are not locked unfortunatelly</p>"
+    },
+    {
+        "id": 2173306,
+        "content": "<p>its on 0, doesnt work with any value</p>"
+    },
+    {
+        "id": 2173309,
+        "content": "<p>Have you updated to 1.00A firmware?</p>\n<p>It should say ‘1.00A’ on the right side of the boot screen (ignore the ‘A’ on the left side)</p>"
+    },
+    {
+        "id": 2173328,
+        "content": "<p>yes, double checked now</p>"
+    },
+    {
+        "id": 2173337,
+        "content": "<aside class=\"quote no-group\" data-username=\"lazlybateamn\" data-post=\"152\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/lazlybateamn/40/161809_2.png\" class=\"avatar\"> lazlybateamn:</div>\n<blockquote>\n<p>RETRIG parameters are not locked</p>\n</blockquote>\n</aside>\n<p>Weird. Even after a reboot ?<br>\nNew project ?<br>\n(Thinking about a stuck note that would block retrig locks)</p>"
+    },
+    {
+        "id": 2173399,
+        "content": "<p>SOLUTION!</p>\n<p>Thanks, so, rebooted several times, doesn’t help, then I made a new project, here worked, then I went back to the old project and it worked!</p>\n<p>So maybe this is a bug, or a problem with Transfer, bc this project was a save from my computer (bc my first Digitone 2 screen corner was broken and I got a new one)</p>"
+    },
+    {
+        "id": 2175083,
+        "content": "<p>Here’s a neat trick using the comb as a phrase repeater. Here I’ve set a track to use 4 voices. The Comb filter has high feedback and the Amp has a long release. Now, if you turn off the Amp Reset switch (AMP page), the Comb will repeat the last-used voice underneath the next set of 4x round-robin voices. It’s really fun for arps that e.g cycle 4 notes, but the voice allocation is an odd number (e.g 7) where you can get polyrhythmic call-response  <img src=\"https://www.elektronauts.com/images/emoji/twitter/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>\n<div class=\"onebox lazyYT lazyYT-container\" data-youtube-id=\"93uUHGQbsLE\" data-youtube-title=\" - YouTube\" data-parameters=\"feature=oembed&amp;wmode=opaque\">\n  <a href=\"https://www.youtube.com/watch?v=93uUHGQbsLE\" target=\"_blank\" rel=\"noopener nofollow ugc\">\n    <img class=\"ytp-thumbnail-image\" src=\"https://img.youtube.com/vi/93uUHGQbsLE/hqdefault.jpg\" title=\" - YouTube\" width=\"480\" height=\"360\">\n  </a>\n</div>\n"
+    },
+    {
+        "id": 2175099,
+        "content": "<p>Ooh, that’s a really neat find! I’ve been finding the comb filters interesting in the slapback delay, chorus, and flanger ranges, too, thanks to another tip higher up the thread, and I’m eager to try out the amp reset trick.</p>"
+    },
+    {
+        "id": 2175166,
+        "content": "<p>What? Would you mind explaining what is going on? I have no clue…<br>\nAmazing discovery!</p>"
+    },
+    {
+        "id": 2175262,
+        "content": "<p>What I <em>think</em> is happening, based on my example vid above:</p>\n<p>Amp Reset is on by default, and the Comb feedback affects the group of voices as one, but with Amp Reset disabled, Comb feedback gets passed to the next voice in the round-robin sequence, so you don’t hear its ‘buffer’ until the next ‘loop’ of 4 voices. Does that make sense?</p>\n<p>I actually thought this was a bug during testing but was reassured that it’s in fact working as expected. Amp reset for Comb is kind of a secret feature <img src=\"https://www.elektronauts.com/images/emoji/twitter/smiley.png?v=9\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\"></p>"
+    },
+    {
+        "id": 2175271,
+        "content": "<p>Oh! Yes!<br>\nThe way voice stealing is done on DNII gets you some weird results at first, but it’s a corner where a lot of nice discoveries can be made ^^</p>"
+    },
+    {
+        "id": 2175400,
+        "content": "<p>Hey all, how do I get the arpeggiator to follow a scale? <img src=\"https://www.elektronauts.com/uploads/default/original/3X/1/a/1a17b0de07778a05696f05025a2ef8f3a6e6cf82.png?v=9\" title=\":wink:\" class=\"emoji emoji-custom\" alt=\":wink:\"><br>\nI turned on a key and a scale in KB Setup, but Arp still plays transposed chromatic notes. Which I usually prefer, but not this time <img src=\"https://www.elektronauts.com/images/emoji/twitter/stuck_out_tongue.png?v=9\" title=\":stuck_out_tongue:\" class=\"emoji\" alt=\":stuck_out_tongue:\"></p>"
+    },
+    {
+        "id": 2175409,
+        "content": "<p>Arp can’t follow the Scale unfortunately <img src=\"https://www.elektronauts.com/images/emoji/twitter/frowning.png?v=9\" title=\":frowning:\" class=\"emoji\" alt=\":frowning:\"></p>"
+    },
+    {
+        "id": 2175410,
+        "content": "<aside class=\"quote no-group\" data-username=\"Jeanne\" data-post=\"163\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/jeanne/40/224412_2.png\" class=\"avatar\"> Jeanne:</div>\n<blockquote>\n<p>how do I get the arpeggiator to follow a scale?</p>\n</blockquote>\n</aside>\n<p>afaik there’s no way to quantize the arp to a scale</p>"
+    },
+    {
+        "id": 2175420,
+        "content": "<p>Thanks! And it’s also not possible to p-lock it, right? I had to make presets of the sound?</p>"
+    },
+    {
+        "id": 2175423,
+        "content": "<p>it would be a dream to be able to p-lock, quantize, and even flatten the arp</p>"
+    },
+    {
+        "id": 2175424,
+        "content": "<aside class=\"quote no-group\" data-username=\"Jeanne\" data-post=\"166\" data-topic=\"222373\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://www.elektronauts.com/user_avatar/www.elektronauts.com/jeanne/40/224412_2.png\" class=\"avatar\"> Jeanne:</div>\n<blockquote>\n<p>I had to make presets of the sound?</p>\n</blockquote>\n</aside>\n<p>Unfortunately. Frustrating arp as is. I prefer to record external arps.<br>\nThis way I have a better control of Probability and trig conditions, plocks, parameters automation which doesn’t work normally with arp.</p>"
+    },
+    {
+        "id": 2175652,
+        "content": "<p>Thanks everyone! I’d be surprised if this doesn’t come in an update, though.</p>"
+    },
+    {
+        "id": 2175660,
+        "content": "<p>Please ask it with details on how you see this…<br>\nI have seen several of my feature requests implemented, you never know <img src=\"https://www.elektronauts.com/uploads/default/original/3X/1/a/1a17b0de07778a05696f05025a2ef8f3a6e6cf82.png?v=9\" title=\":wink:\" class=\"emoji emoji-custom\" alt=\":wink:\"></p>"
+    },
+    {
+        "id": 2175663,
+        "content": "<p>I would generally love more features to keep tracks quantized to the scale, currently transposing tracks also ends up with notes out of the chosen scale as well. I would love to be able to make a very short sequence and live transpose it for off the cuff performances. That is very fun on the keystep 37.</p>"
+    },
+    {
+        "id": 2175901,
+        "content": "<p>nice! can velocity help tame the volume with dis?</p>"
+    },
+    {
+        "id": 2175907,
+        "content": "<p>I didn’t try that but it might be possible with some vel modulation.<br>\nI just turned down the feedback and also ran the comb into the base-width filter (flip the routing on filter’s page 2)</p>"
+    },
+    {
+        "id": 2175960,
+        "content": "<p>Yeah I think it’s weird it hasn’t been implemented as of yet, seeing it’s been suggested multiple times.</p>\n<p><strong>Scale quantization</strong><br>\nWhen running the ARP it would be very helpful if you could quantize it to the scale you’ve chosen.<br>\nAlso, it would be lovely if there was an option to quantize everything to the chosen scale. Ie. when you’re in th TRIG-menu and noodle around with the notes for a given step, it would be nice if you would get the option to:</p>\n<ul>\n<li>\n<p><strong>A:</strong> Quantize to closest note, ie. the chosen note is still shown (say, C) but it automatically quantizes to the closest note in the chosen scale, say, C#. This would open up for the possibility to change notes on the fly in a sequence without having to know scales, if your desire is to stay within scale.</p>\n</li>\n<li>\n<p><strong>B:</strong> Only show available notes in the chosen scale, ie. you can’t choose C but only C# and so forth. This would open up for some very interesting scenarios if you switch the global scale in the midst of a jam session <img src=\"https://www.elektronauts.com/images/emoji/twitter/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>\n</li>\n</ul>"
+    },
+    {
+        "id": 2177347,
+        "content": "<p><strong>Binaural Digitone II</strong></p>\n<p>I’m a huge fan of Yamaha cs-80, or UDO super gemini synth, and the concept of two synth voice for stereo is amazing.<br>\nAnd with track layering you can definitely achieve this on DN2. Just load the same preset on two track, pan one to left and the other to right, add tiny differences (you can change lfo speed for tune or filter), and VOILÀ !</p>\n<p>Please <img src=\"https://www.elektronauts.com/images/emoji/twitter/headphones.png?v=9\" title=\":headphones:\" class=\"emoji\" alt=\":headphones:\"> for the exemples :</p>\n<p>The same patch<br>\nWithout binaural<br>\n<audio preload=\"metadata\" controls=\"\">\n    <source src=\"/uploads/default/original/3X/e/c/ecdc95ead375003d526bdebff2c61984ce2fb39a.wav\">\n    <a href=\"https://www.elektronauts.com/uploads/default/original/3X/e/c/ecdc95ead375003d526bdebff2c61984ce2fb39a.wav\">/uploads/default/original/3X/e/c/ecdc95ead375003d526bdebff2c61984ce2fb39a.wav</a>\n  </audio><br>\nWith binaural<br>\n<audio preload=\"metadata\" controls=\"\">\n    <source src=\"/uploads/default/original/3X/d/c/dc7904c94d02e370810451af6576cf7f13b81f62.wav\">\n    <a href=\"https://www.elektronauts.com/uploads/default/original/3X/d/c/dc7904c94d02e370810451af6576cf7f13b81f62.wav\">/uploads/default/original/3X/d/c/dc7904c94d02e370810451af6576cf7f13b81f62.wav</a>\n  </audio></p>\n<p>I’m totally in love with this machine since I’ve discovered that, so much stereo spaces!</p>"
+    },
+    {
+        "id": 2178584,
+        "content": "<p>I just noticed and figured out this. Very weird indeed.<br>\nI reported it before discovering this Elektronauts forum.</p>\n<p>And thank you for the reverse explanation <img src=\"https://www.elektronauts.com/images/emoji/twitter/+1.png?v=9\" title=\":+1:\" class=\"emoji\" alt=\":+1:\"></p>"
+    }
+]
