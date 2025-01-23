@@ -10,6 +10,7 @@ A Python tool that crawls Elektronauts forum threads and converts them into read
 - Removes unsupported elements (like audio)
 - Generates clean, well-formatted PDF documents
 - Handles large threads by fetching posts in batches
+- Command-line interface for easy thread selection
 
 ## Requirements
 
@@ -33,19 +34,19 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Set the thread ID in `src/app.py` (found in the Elektronauts forum URL):
-
-```python
-THREAD_ID = "222373"  # Replace with your desired thread ID
-```
-
-2. Run the script:
+Run the script with the thread ID as an argument. The thread ID can be found in the Elektronauts forum URL (e.g., for `https://www.elektronauts.com/t/222373`, the thread ID is "222373"):
 
 ```bash
-python src/app.py
+python src/app.py 222373
 ```
 
 The script will generate a PDF file named `thread_content_[THREAD_ID].pdf` in the current directory.
+
+For help with command-line options:
+
+```bash
+python src/app.py --help
+```
 
 ## Output
 
